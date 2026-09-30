@@ -1,0 +1,641 @@
+﻿topic_id,course_id,title,ordinal,intramural_contact_hours,intramural_independent_hours,extramural_contact_hours,extramural_independent_hours
+TOPIC_1ea7cdfb55c5ed,DE0745,Universal database systems: relational and object-relational databases.,1,8,10,0,0
+TOPIC_30b2a0c0ff540b,DE0745,Temporal database systems: conceptual and logical models.,2,8,10,0,0
+TOPIC_542749b2e90419,DE0745,Data retrieval form temporal database systems.,3,8,10,0,0
+TOPIC_719114841bf0a1,DE0747,The scope of advanced requirements engineering. Standards in requirements engineering. Cognitive psychological and ethical issues in requirements engineering.,1,8,14,0,0
+TOPIC_a5a7944c00b528,DE0747,Problem oriented requirements engineering.,2,8,12,0,0
+TOPIC_74801d4fc64001,DE0747,Enterprise modeling and requirements engineering.,3,8,8,0,0
+TOPIC_71df4e45a9c69a,DE0747,Information logistics.,4,4,12,0,0
+TOPIC_548de20b9f12c5,DE0747,Enterprise architecture: the frameworks and description language.,5,16,20,0,0
+TOPIC_1a923a0b054723,DE0747,Other approaches in requirements engineering (value based and agent based requirements engineering).,6,8,12,0,0
+TOPIC_1d34fc7c57d992,DE0747,Variability management in requirements engineering.,7,4,6,0,0
+TOPIC_f60bab5ff0c524,DE0747,Decision model and notation.,8,4,6,0,0
+TOPIC_be518149c2d9b3,DE0747,Requirements management and continuous requirements engineering.,9,4,6,0,0
+TOPIC_e544d4426c3922,DE0752,Basics of systems theory.,1,20,32,0,0
+TOPIC_70026b6b46211a,DE0752,Cybernetics approach to systems thinking.,2,16,20,0,0
+TOPIC_4d565d74ee6d9e,DE0752,Systems structure: representation and analysis.,3,12,20,0,0
+TOPIC_54b387915b3a10,DE0752,Systems approach to management of organizations.,4,8,12,0,0
+TOPIC_dea29163ff4ce4,DE0752,Living and viable systems.,5,8,12,0,0
+TOPIC_0a6c02bca37cca,DE0740,Basics of business process modelling.,1,8,12,0,0
+TOPIC_c05c6f999c5f13,DE0740,Role of business processes in enterprise/business architecture.,2,8,12,0,0
+TOPIC_9b929845641759,DE0740,Modelling of complex business processes.,3,8,12,0,0
+TOPIC_5b31e2ad2a2eb1,DE0740,"Business process modelling frameworks (VCOR, SCOR, APQC, etc).",4,12,18,0,0
+TOPIC_49552b2c99ef44,DE0740,"Business process simulation, monitoring, analysis, and management.",5,8,12,0,0
+TOPIC_a9de0606abaaa9,DE0740,Business process improvement and reengineering.,6,8,12,0,0
+TOPIC_830b031843addc,DE0740,information flow in business processes; design of business process support and management systems.,7,12,18,0,0
+TOPIC_b64ef3bb218357,DE0751,The modern internet technologies for organizing business processes.,1,4,6,2,8
+TOPIC_8eae83f720d1c0,DE0751,"Marketing, advertising, and digital tools in business. Advertising algorithms. Advertising methods. Advertising choice strategy.",2,8,8,8,10
+TOPIC_7afdf1c6506438,DE0645,Introduction: projects and project portfolio.,1,8,12,0,0
+TOPIC_33c8ad5596d311,DE0645,Project identification and development of project portfolio.,2,8,12,0,0
+TOPIC_e32b27b980c535,DE0645,Project portfolio optimization.,3,8,12,0,0
+TOPIC_2682e89630fada,DE0645,Project portfolio management methodologies and SAF framework.,4,8,12,0,0
+TOPIC_0e8a39fe544eaa,DE0645,"Agile ways of working, Scrum, Kanban, resource allocation.",5,8,12,0,0
+TOPIC_52969f2cc2c86f,DE0645,Multi-criteria analysis of project portfolio.,6,8,12,0,0
+TOPIC_cb6cfbef848168,DE0645,Development of project portfolio management information system.,7,8,12,0,0
+TOPIC_ab3f9de12f8b48,DE0739,"Knowledge, knowledge management aims, perspectives and challenges.",1,8,12,0,0
+TOPIC_29c359eb4bcfa7,DE0739,Knowledge management methods and systems.,2,12,18,0,0
+TOPIC_614a620126dc56,DE0739,Knowledge management processes and tools (including sub-topics on knowledge audit and user experience design).,3,16,24,0,0
+TOPIC_c899caf30e2e4f,DE0739,"Knowledge management relation to strategic, human resources, innovation and quality management.",4,4,6,0,0
+TOPIC_c8570c386d1f64,DE0739,Socio-ethical factors of knowledge management.,5,4,6,0,0
+TOPIC_d15f3509cbc299,DE0739,Design and development of knowledge management system’s blueprint.,6,20,30,0,0
+TOPIC_1e5cc2cdbeed05,DE0754,"Introduction to Service Science, Management, and Engineering (SSME).",1,4,6,0,0
+TOPIC_4a77d2f3357daa,DE0754,Service innovation management and productivity.,2,4,6,0,0
+TOPIC_c04e14dd5fe8df,DE0754,Service research.,3,4,6,0,0
+TOPIC_a8630e9bde3b2c,DE0754,Introduction to global service company management.,4,4,6,0,0
+TOPIC_015ed4de56ee00,DE0754,Software architecture and service orientation.,5,4,6,0,0
+TOPIC_2a9512cdffe5e2,DE0754,Service-oriented architecture (SOA) overview and entry points.,6,4,6,0,0
+TOPIC_c407e781544b1d,DE0754,SOA design principles. Services modelling.,7,4,6,0,0
+TOPIC_7300305f3b3cc6,DE0754,Services identification.,8,4,6,0,0
+TOPIC_b80b2561e4bfd5,DE0754,Services specification and design.,9,4,6,0,0
+TOPIC_cd017a4492b74b,DE0754,Services realization and implementation.,10,4,6,0,0
+TOPIC_872e7d57868eda,DE0754,SOA and standards. Designing Web services.,11,4,6,0,0
+TOPIC_e69701db3ae238,DE0754,Outsourcing and services.,12,4,6,0,0
+TOPIC_eb39e273d1f131,DE0754,Service governance. The ITIL overview.,13,4,6,0,0
+TOPIC_1293b840400e30,DE0754,Student presentation on selected topics.,14,8,12,0,0
+TOPIC_9b02d5221ea2c1,DE0754,Examination.,15,4,6,0,0
+TOPIC_4e0dc257dc237f,DE0742,"Introduction to quality, risk and security technologies",1,4,0,0,0
+TOPIC_91696eaf59bf95,DE0742,"IT quality management process, activities and standards",2,12,20,0,0
+TOPIC_ece234d4111190,DE0742,"IT risk management process, activities and standards",3,4,8,0,0
+TOPIC_27fd9e7539ab54,DE0742,IT risk assessment process and methods,4,4,8,0,0
+TOPIC_aebe59d0a21450,DE0742,IT risk mitigation process and methods,5,4,4,0,0
+TOPIC_bc00b2fecbb481,DE0742,"IT security management process, activities and standards",6,12,20,0,0
+TOPIC_1eae94ab723687,DE0742,IT quality management support technologies,7,8,8,0,0
+TOPIC_7736952a0acd2b,DE0742,IT risk management support technologies,8,8,8,0,0
+TOPIC_48d6044e825f8a,DE0742,IT security management support technologies,9,8,16,0,0
+TOPIC_67e43b0cc1a116,DE0742,Consultations,10,2,0,0,0
+TOPIC_7bba6812847fad,DE0742,Exam,11,2,0,0,0
+TOPIC_e2dd58fe19b008,DE0746,The essence and process of a scientific work.,1,2,3,0,0
+TOPIC_b1fb0c54080f60,DE0746,"Classification of the research methods, quantitative and qualitative research methods.",2,2,3,0,0
+TOPIC_711971e3e9f4ec,DE0746,Design Science Research.,3,4,6,0,0
+TOPIC_2a22cd8f094beb,DE0746,Structured literature review.,4,6,6,0,0
+TOPIC_cffc620c0f91ba,DE0746,Academic writing.,5,2,6,0,0
+TOPIC_56accb56ca0fb5,DE0746,Academic integrity in research.,6,2,4,0,0
+TOPIC_5b6e06d5666736,DE0746,Evaluation of research results.,7,2,6,0,0
+TOPIC_a51b2bad583495,DE0746,The process of the research paper and master thesis development.,8,12,14,0,0
+TOPIC_eb7fa7c85faae1,DE0001,Introduction. Recommended Literature. Introduction to SAN and Data Access. Storage Architectures.,1,2,4,0,0
+TOPIC_836ec0df8435c3,DE0001,Structure of Storage Drives. RAID Technology.,2,2,6,0,0
+TOPIC_b04a73f26503ef,DE0001,Storage Acceleration Techniques. Intelligent Storage Subsystems.,3,4,8,0,0
+TOPIC_aa471d5e18090b,DE0001,File Systems. Logical Volume Managers.,4,4,8,0,0
+TOPIC_1548dd6a26f99b,DE0001,I/O Connectivity Techniques. SCSI Protocol. Fibre Channel Protocol. SAN Topologies and Configurations.,5,2,4,0,0
+TOPIC_1211a445a651b1,DE0001,Network Attached Storage. Network File Systems. Internet Protocol Storage. Storage Virtualization.,6,4,8,0,0
+TOPIC_deb0b87ecc1643,DE0001,Network Backup Solutions. Digital Data Archiving.,7,2,6,0,0
+TOPIC_1b9e186f38b972,DE0001,Reasons For and Against SANs. Designing Storage Networking Solutions.,8,2,4,0,0
+TOPIC_7ba6b7ea29b877,DE0001,Ensuring Business Continuity.,9,2,6,0,0
+TOPIC_5f19c2bd0f481e,DE0748,Introduction: Cyber crime and different kinds of attacks and malware types.,1,3,4,0,0
+TOPIC_9dd3ac9ff8effd,DE0748,"Network based threats, e.g., network scanning, covert channels, steganography.",2,5,8,0,0
+TOPIC_5836afa69b3c08,DE0748,Botnets.,3,5,6,0,0
+TOPIC_5fb65a0e95b548,DE0748,Basic tools for network monitoring.,4,5,8,0,0
+TOPIC_0f8e8ce6396652,DE0748,Basic tools and methods for network traffic analysis.,5,5,8,0,0
+TOPIC_d2880d1dd77d44,DE0748,Methods for detecting and preventing network-based attacks.,6,4,6,0,0
+TOPIC_9ef189f65f96e8,DE0748,Introduction to penetration testing tools.,7,5,8,0,0
+TOPIC_e7ef51c810acea,DE0743,Concept of intelligent agents and main characteristics of them,1,4,6,0,0
+TOPIC_791111ec489ef5,DE0743,Types of agents,2,4,6,0,0
+TOPIC_8c53ff8a076b26,DE0743,"Agents intelligence (search, planning, knowledge representation and reasoning)",3,32,48,0,0
+TOPIC_3d7227bcd1d3f9,DE0743,Agent development,4,8,12,0,0
+TOPIC_43e0e812250f3b,DE0743,Machine learning (decision trees and neural networks),5,12,18,0,0
+TOPIC_45276937b98dcc,DE0743,Multi-agent systems and agent interactions,6,4,6,0,0
+TOPIC_9b2c6fda2b6f87,DE0753,The conceptual basis of security risk management.,1,8,12,0,0
+TOPIC_a1db41baddb170,DE0753,Security modeling languages.,2,10,15,0,0
+TOPIC_dc9abce2ebf0ef,DE0753,Security risk and its constituents.,3,8,12,0,0
+TOPIC_01a90f56a2a26c,DE0753,Security requirements and their dependencies.,4,8,12,0,0
+TOPIC_a429312b7e74d3,DE0753,Social engineering.,5,8,12,0,0
+TOPIC_7009844ef8d064,DE0753,Role-based access control and model driven security.,6,10,15,0,0
+TOPIC_9799eed8f8ec6b,DE0753,Security patterns.,7,8,12,0,0
+TOPIC_e83acc1b769989,DE0753,Secure software development.,8,4,6,0,0
+TOPIC_d6b47a420cb066,DE0738,Introduction: Enterprise value chain and enterprise applications,1,4,6,0,0
+TOPIC_285da6a776d099,DE0738,Enterprise Information Technology architecture and COTS applications,2,4,6,0,0
+TOPIC_83cfe27c0095e4,DE0738,Enterprise Resource Planning (ERP) Systems: Introduction,3,6,9,0,0
+TOPIC_755587d4bf3334,DE0738,Implementation of ERP systems,4,4,6,0,0
+TOPIC_d0229be7159142,DE0738,Methodologies of implementation of ERP systems,5,4,6,0,0
+TOPIC_8f2b4fe35c0b77,DE0738,Modification of ERP systems,6,8,12,0,0
+TOPIC_5000e69e911214,DE0738,Vendors of ERP systems,7,4,6,0,0
+TOPIC_6659eeb9fc63bd,DE0738,Configuration of enterprise applications,8,4,6,0,0
+TOPIC_3c85a285b67530,DE0738,Enterprise portal,9,4,6,0,0
+TOPIC_76928a8450a5ee,DE0738,Workflow systems,10,8,12,0,0
+TOPIC_e25be40a0d0445,DE0738,Composite applications,11,4,6,0,0
+TOPIC_b33cb0748b29e9,DE0738,Enterprise integration and integration standards,12,4,6,0,0
+TOPIC_373204c4af6082,DE0738,Current trends in enterprise Information technology architecture and applications,13,4,6,0,0
+TOPIC_31a6740aa9e362,DE0738,Course summary,14,2,3,0,0
+TOPIC_caafd591bc18ff,DE0750,"Business intellingece, metrics, key performance indicators, dashboards for managerial decision making",1,12,14,0,0
+TOPIC_db3fe27a57f3ee,DE0750,"Data analytics: business needs analysis, data exploratory analysis, preprocessing, statistics, data representation",2,16,20,0,0
+TOPIC_6eff112110bc70,DE0750,"Data mining: regression, classification, clustering, asociation rules. Credibiltiy. State-of-the-art data mining applications",3,14,18,0,0
+TOPIC_c1b34829b94516,DE0750,"Data mining tools, their practical application in data analysis",4,14,28,0,0
+TOPIC_8d46f6ea1820d3,DE0750,Demonstration of learning outcomes through presentations and examination,5,8,16,0,0
+TOPIC_688cdbdc9aaedd,DE0940,"Data analytics: business needs analysis, data exploratory analysis, data representation.",1,8,8,0,0
+TOPIC_5cf5e90e96eab9,DE0940,"Data preparation: data acquisition, statistical analysis, preprocessing.",2,12,16,0,0
+TOPIC_28d79c20b9794e,DE0940,"Machine learning. Unsupervised machine learning: clustering, association rules mining, dimensionality reduction. Recap on supervised learning methods. Big data.",3,12,18,0,0
+TOPIC_1dab9bd16b201b,DE0940,Machine learning project life cycle: theory and practice.,4,8,20,0,0
+TOPIC_0493c7d9c5a7b3,DE0940,"The credibility of machine learning results, interpretation, ethics of data science.",5,8,8,0,0
+TOPIC_40239237aa4267,DE0940,"No-code tools and code libraries for data analysis, visualization and machine learning applications.",6,8,10,0,0
+TOPIC_633ea97bbc8723,DE0940,Demonstration of learning outcomes through presentations and examination.,7,8,16,0,0
+TOPIC_d424503bc43b7b,BS0055,Working effectively with your (inhouse / external) counsel and other legal professions.,1,8,4,0,0
+TOPIC_df0c19be4b481a,BS0055,Corporate governance and main rules of company operation.,2,10,9,0,0
+TOPIC_3989f6d886cd9c,BS0055,Dispute resolution venues and strategies.,3,9,9,0,0
+TOPIC_0f61efb6d4f171,BS0055,Contract Law.,4,8,5,0,0
+TOPIC_25ba756caf261d,BS0055,Employment law and regulation of the European Union and Latvia.,5,5,9,0,0
+TOPIC_68bd8e59bd00b0,BS0055,Intellectual property law.,6,10,10,0,0
+TOPIC_524063abf9365c,BS0055,Business expansion regulation – mergers and acquisitions.,7,9,10,0,0
+TOPIC_12c77a7e231887,BS0055,Business in difficulty – legal solutions.,8,4,5,0,0
+TOPIC_53799cdf0c7718,BS0055,Lobbying and law-making.,9,10,9,0,0
+TOPIC_f9eba553fb74ef,BS0055,Competition regulation.,10,7,10,0,0
+TOPIC_d53d2f432ca735,BS0054,Negotiations in business.,1,9,9,0,0
+TOPIC_22ceeef17cb27b,BS0054,General Philosophical Concerns.,2,4,4,0,0
+TOPIC_8bcbb5ea728df8,BS0054,Social Contract.,3,4,4,0,0
+TOPIC_ee0827c1e3c8ca,BS0054,Decision-making.,4,15,10,0,0
+TOPIC_f7bd2a05174f9f,BS0054,Responsibility.,5,10,10,0,0
+TOPIC_96ba46d9d25ab7,BS0054,Corporate Social Responsibility.,6,4,4,0,0
+TOPIC_96781ccde86c77,BS0054,Conflict of Interest and Fairness.,7,5,6,0,0
+TOPIC_31fe115f543855,BS0054,Employee-employer relationship.,8,4,5,0,0
+TOPIC_5c55c5f9da1089,BS0054,Ethics in international business (SME vs. MNE).,9,4,4,0,0
+TOPIC_3d2cdb172e1ec7,BS0054,Change management and ethical imagination.,10,7,9,0,0
+TOPIC_b7d2e5308be312,BS0054,Business Ethics in Latvia.,11,4,5,0,0
+TOPIC_7f99e8b3e8fd81,BS0054,Ethics in international business.,12,10,10,0,0
+TOPIC_bb35cf89f805a1,BS0052,Entrepreneurial Process and Innovation.,1,6,5,0,0
+TOPIC_c9dcf41b004b02,BS0052,Business plans.,2,4,5,0,0
+TOPIC_0d9675b48ebf14,BS0052,Business models.,3,5,5,0,0
+TOPIC_393c11149baadd,BS0052,New venture financing.,4,10,9,0,0
+TOPIC_042a85cfb262a6,BS0052,"Valuation, financing and capitalization tables in the new venture context, business plan preparation progress discussion.",5,4,5,0,0
+TOPIC_4a1915f858d3f3,BS0052,"Investment deals, term sheets.",6,10,8,0,0
+TOPIC_7f15f99a979175,BS0052,Setting up or buying the company.,7,11,9,0,0
+TOPIC_bbcb4136937be7,BS0052,"Managing risk and reward, legal protection and intellectual property.",8,4,5,0,0
+TOPIC_15488c258b521c,BS0052,Budgeting and financial statements.,9,7,5,0,0
+TOPIC_32d3e2fd59b368,BS0052,Team and motivational issues.,10,4,9,0,0
+TOPIC_6d7a725968aab3,BS0052,Managing the growing venture. Business processes.,11,11,10,0,0
+TOPIC_a4ac2ee35087d4,BS0052,Business plan presentations.,12,4,5,0,0
+TOPIC_31cd288648668a,BS0053,Introduction to Study Course & Communication in Organizations.,1,10,9,0,0
+TOPIC_82840ee5443c18,BS0053,Strategic Communication.,2,9,9,0,0
+TOPIC_de47d1b0ac49a7,BS0053,Writing Organization and Styles.,3,9,9,0,0
+TOPIC_081b75b99bfac2,BS0053,Verbal Presentations.,4,6,6,0,0
+TOPIC_17cea8f9d4a3c6,BS0053,Visual Aids.,5,4,9,0,0
+TOPIC_d5170595010c3f,BS0053,Writing Proposals & Reports.,6,10,9,0,0
+TOPIC_f67bc6fb7e8402,BS0053,Sales & Negotiations Language Structure.,7,9,9,0,0
+TOPIC_28bd7d94203f8d,BS0053,Team Communication / Crisis communication.,8,11,10,0,0
+TOPIC_f7faa207cbfa45,BS0053,Team Presentations.,9,12,10,0,0
+TOPIC_6a51a36f6be40e,BS0050,Introduction – finance for entrepreneurs. Venture life cycle and financing. Developing the business idea. Financing a new venture,1,8,5,0,0
+TOPIC_96b24fecf4cd78,BS0050,Evaluating financial performance. Breakeven analysis. Managing monthly cash flow,2,8,9,0,0
+TOPIC_0e9779d69c709c,BS0050,Valuing early-stage ventures. Venture Capital Valuation methods.,3,8,5,0,0
+TOPIC_4da17810e865ea,BS0050,Financial planning and private company valuation,4,9,10,0,0
+TOPIC_d1c6d2d961c66e,BS0050,Valuing private companies for equity investments,5,4,9,0,0
+TOPIC_d59472587fa7ac,BS0050,Small private company valuation.,6,4,4,0,0
+TOPIC_21aed3bda2531c,BS0050,EU financing for startups and SMEs. Altum experience,7,10,5,0,0
+TOPIC_09c04a8fe3b59b,BS0050,Financing alternatives and structures. Trade sale and private equity investment cases,8,4,5,0,0
+TOPIC_73a91ed8dddc20,BS0050,Exiting through IPO.,9,4,9,0,0
+TOPIC_443d698f643e56,BS0050,Legal side of private equity financing. Legal considerations when obtaining equity financing – EU and Baltics. Shareholder agreements.,10,8,5,0,0
+TOPIC_1e0c9c04e0a4fd,BS0050,Management Buyouts,11,9,5,0,0
+TOPIC_3a4d3c0afa3663,BS0050,Presentations,12,4,9,0,0
+TOPIC_e693df2d9d22a8,BS0051,Introduction.,1,4,16,0,0
+TOPIC_9e134758d02226,BS0051,Understanding Change and its Influence Organizational Dynamics.,2,18,17,0,0
+TOPIC_3d84f0b7c1d606,BS0051,Building Effective Work Relationships.,3,28,24,0,0
+TOPIC_2879751f632e92,BS0051,"Leadership, Alignment and Organizational Change.",4,30,23,0,0
+TOPIC_dde05e79d620f0,BS0049,History and theories of legal forms of business.,1,10,4,0,0
+TOPIC_9a996d9d69a51b,BS0049,Shareholders.,2,9,4,0,0
+TOPIC_9647e649f94124,BS0049,"Case Study: Enron, Film.",3,4,4,0,0
+TOPIC_268953a2b1ebb5,BS0049,Boards of Directors.,4,6,4,0,0
+TOPIC_90994d6d71007f,BS0049,Executive Compensation as a Governance Issue.,5,8,10,0,0
+TOPIC_c92f984539f9dd,BS0049,"Shareholder Activism: Institutional Investors, Public Pension Funds, and Activist Investors.",6,4,8,0,0
+TOPIC_8003c1ac900cdf,BS0049,Corporate Governance Standards.,7,4,9,0,0
+TOPIC_dbeac12df9ea48,BS0049,"Employee Ownership, Profit Sharing, and Broad-based Stock Options Introduction.",8,4,9,0,0
+TOPIC_590da3be241e75,BS0049,"Changes in the Corporation: Public vs Private Companies and Takeovers, Mergers, Spinoffs, Acquisitions, Privatization, Nationalization, & Startups.",9,11,4,0,0
+TOPIC_3174bc5b831b6b,BS0049,Management evaluation of company managers.,10,6,10,0,0
+TOPIC_387951db4181eb,BS0049,Corporate Ethics/International Corporate Governance.,11,4,9,0,0
+TOPIC_3528622ee80e07,BS0049,Presentations.,12,10,5,0,0
+TOPIC_a9edba98118ddf,DE0741,1. The Essence of Pedagogical Process. Pedagogical Process as System.,1,6,10,2,9
+TOPIC_a3871c55243477,DE0741,2. A Comparison of Pedagogical Systems. Theoretical Bases. Pedagogical process and Self- actualising people.,2,4,5,2,7
+TOPIC_6d2e2e8f89f994,DE0741,3. Contemporary understanding of pedagogical values.,3,2,4,2,8
+TOPIC_f30b8df201cbda,DE0741,4. Managing the Pedagogical Process. Management Style. Teachers` Roles.,4,6,9,3,12
+TOPIC_37c19af1d95e72,DE0741,5. Cooperation within Pedagogical Process. Pedagogical Communication.,5,8,10,4,16
+TOPIC_45230537900c3f,DE0741,6. Philosophies of Adult Education. Didactic Models Used by Businesses to Manage Internal Training.,6,6,8,3,12
+TOPIC_ab73e461cac2b3,DE0643,Pedagogy: art or science? Branches of pedagogical science.,1,2,3,1,4
+TOPIC_cff79c4822edce,DE0643,The subject of pedagogy. The relationship between pedagogic theory and practice. Humanpedagogy.,2,2,3,1,6
+TOPIC_d53104ad4ab65b,DE0643,"Interpretation of current education issues. The values education. Ideas of A. Adler, R. Dreikur.",3,1,4,2,6
+TOPIC_5a7e44ddff6cfb,DE0643,Different philosophies of education. Theories about teaching. Theories about learning.,4,2,6,1,6
+TOPIC_81076ede9e043f,DE0643,The roles of the teacher/lecturer. Pedagogical competence and ethical principles.,5,2,3,2,6
+TOPIC_cf12b35718f9d5,DE0643,The individual nature of the learner. Diversity of students learning strategies and study skills. Individualization of learning.,6,2,8,2,6
+TOPIC_11b65bd80bf741,DE0643,The motivation for learning.,7,2,4,1,6
+TOPIC_48d2103169e864,DE0643,"Components of the learning process. Teaching content, methods and forms of organization.",8,4,8,3,6
+TOPIC_e5c20f99da3386,DE0643,Cooperation in the learning process. Pedagogical contact. Conflict resolution.,9,3,6,2,6
+TOPIC_95adac9457b60d,DE0643,Learning outcomes and their evaluation.,10,2,8,1,6
+TOPIC_4d26096b762fac,DE0643,"Knowledge, skills and competences. Quality assessment in education.",11,2,4,1,6
+TOPIC_384f666526ff8d,DE0729,Introduction. Goals and objectives of the study course. Importance of developing soft skills.,1,2,3,1,3
+TOPIC_bced331698e88c,DE0802,Introduction to Digital Humanities.,1,4,6,0,0
+TOPIC_6883b4145dc401,DE0802,"DH history, principles, key concepts, issues.",2,4,6,0,0
+TOPIC_8335f5f0fd1fed,DE0802,Digital Humanities Tools.,3,4,6,0,0
+TOPIC_c8f38caaed772f,DE0802,"Content Modelling, Interpretation, and Display.",4,4,6,0,0
+TOPIC_71a39f8a06c192,DE0802,Data and Data Bases.,5,4,6,0,0
+TOPIC_41962e25af4008,DE0802,Metadata.,6,4,6,0,0
+TOPIC_8cef6b0a28e311,DE0802,Interrelation of different semiotic systems.,7,4,6,0,0
+TOPIC_b8aaa64e50f0d1,DE0802,Visualization of Information 1.,8,4,6,0,0
+TOPIC_8e57fdcc315271,DE0802,Visualization of Information 2: Practice.,9,4,6,0,0
+TOPIC_b7d26395a9627d,DE0802,Data Mining and Text Analysis.,10,4,6,0,0
+TOPIC_223aa2f5abcbcb,DE0802,Decoding Text Layers.,11,4,6,0,0
+TOPIC_87c4ce77c7be20,DE0802,Decoding Text: Practice.,12,4,6,0,0
+TOPIC_78938207fc2e13,DE0802,Interface Design.,13,4,6,0,0
+TOPIC_e93c61896dbd4c,DE0802,Websites and Content-Management Systems.,14,4,6,0,0
+TOPIC_c2e6afeb7b47f6,DE0802,"Network, Concept Maps, Ontologies.",15,4,6,0,0
+TOPIC_3b72abd83cf10e,DE0717,Introduction into course requirements and the concept of artificial intelligence.,1,2,0,0,0
+TOPIC_8acbfbe9ee4901,DE0717,"Definition of artificial intelligence (definition of intelligence, the first definition of artificial intelligence, categories of definitions of artificial intelligence).",2,2,1,0,0
+TOPIC_27ddba6a30bf69,DE0717,"Artificial intelligence - a part of computer science (its roots, goals, approaches, tasks, methods).",3,2,1,0,0
+TOPIC_a082bd47c3b88a,DE0717,"Search-based problem solving (formal representation, state space graph, search algorithm, search principles, uninformed search algorithms).",4,2,2,0,0
+TOPIC_466bdb02d9355e,DE0717,"Search-based problem solving (heuristic search algorithms, heuristic evaluation function).",5,2,2,0,0
+TOPIC_bf267667ac3d3d,DE0717,"Knowledge representation (knowledge base, inference engine, expert systems, semantic networks, frames).",6,2,1,0,0
+TOPIC_1318395683de26,DE0717,First test.,7,2,0,0,0
+TOPIC_60fe75a927a24e,DE0717,First practical assignment.,8,0,14,0,0
+TOPIC_bf673da784cc14,DE0717,"The concept of machine learning (definition, types and terminology) and supervised machine learning.",9,2,2,0,0
+TOPIC_94360a09458b18,DE0717,Unsupervised machine learning.,10,2,1,0,0
+TOPIC_1214cd6719f740,DE0717,Basics of artificial neural networks.,11,2,2,0,0
+TOPIC_b078714df7587b,DE0717,Methods of natural language processing.,12,2,1,0,0
+TOPIC_f62e8045c8c45b,DE0717,Basics of computer vision.,13,2,1,0,0
+TOPIC_ec9aba5b3cb5b2,DE0717,Second test.,14,2,0,0,0
+TOPIC_0820b5f557c5ec,DE0717,Second practical assignment.,15,0,15,0,0
+TOPIC_377f9f98cb3725,DE0717,Presentations of research essays.,16,2,2,0,0
+TOPIC_7c85c4c9a35bea,DE0823,Introduction to Discourse Studies.,1,4,6,0,0
+TOPIC_15cec6106b3efa,DE0823,Critical Discourse Analysis.,2,6,9,0,0
+TOPIC_bdd13b86b03601,DE0823,Different Approaches to Discourse Analysis.,3,6,9,0,0
+TOPIC_c853352b10a4ea,DE0823,Interdisciplinary Perspective on the Nature of Language in Digital Era.,4,4,6,0,0
+TOPIC_22e3220f61452e,DE0823,Multimodal Information Encoding and Transfer: Use of New Media Technologies.,5,8,12,0,0
+TOPIC_a6f47a2926f049,DE0823,Role of Communicative Context.,6,4,6,0,0
+TOPIC_a50ef1034f97fd,DE0811,"Introduction: rhetoric as a discipline, its aims and tasks, historical perspective.",1,2,2,0,0
+TOPIC_430c92003b5f17,DE0811,Rhetoric of scientific and technical discourse: basic concepts.,2,2,2,0,0
+TOPIC_5c8fdd8bea8312,DE0811,"Types of texts: ‘genuine’ materials, adapted materials, synthesized and created materials.",3,2,2,0,0
+TOPIC_09d60f4f7ef5df,DE0811,"Rhetoric of oral communication: presentations, conferences, reports, discussions, debates.",4,4,4,0,0
+TOPIC_b67b66779dcab3,DE0811,"Rhetoric of written communication: essay, article, dissertation, monograph.",5,4,4,0,0
+TOPIC_c5046c38dfb80c,DE0811,"Rhetorical functions: argumentation, description, definition, classification.",6,4,4,0,0
+TOPIC_5742b4c096019b,DE0811,"Rhetorical techniques: time order, space order, logical patterns.",7,2,2,0,0
+TOPIC_e08aa3a3dbc7f3,DE0811,Rhetoric of intelingual communication.,8,2,2,0,0
+TOPIC_616e75c6cc2b85,DE0811,Rhetoric of pedagogical discourse.,9,2,2,0,0
+TOPIC_2318283683d76c,DE0811,Text interpretation through rhetorical criticism.,10,2,2,0,0
+TOPIC_4d1b2043699b68,DE0811,Language in relation to other communication systems.,11,2,2,0,0
+TOPIC_495582797d43c1,DE0811,Visual rhetoric.,12,4,4,0,0
+TOPIC_06e55d90361aae,DE0811,Multimodality: the rhetoric of visual-verbal relationships.,13,4,4,0,0
+TOPIC_b507f619eb3359,DE0811,"Tests, presentation of portfolios.",14,4,4,0,0
+TOPIC_931a3a212e5fd6,DE0714,"Introduction: Definitions, methodologies, relation to other branches of linguistics, nonverbal communication.",1,2,4,0,0
+TOPIC_a1958ad21f00b6,DE0714,"Models of the sign: Ferdinand de Saussure, language and speech; Charles Peirce’s Concept of the Sign. Three forms of modes: Symbolic mode; iconic mode; indexical mode; Hjelmslev’s framework.",2,2,4,0,0
+TOPIC_a8cdd029e6e258,DE0714,Signs and objects: Naming objects; referentiality; modality.,3,2,4,0,0
+TOPIC_4672125f0ccbd0,DE0806,Big Data - features and qualities of Big Data and problems related to them.,1,8,0,0,0
+TOPIC_bb96db3ca6515d,DE0806,Ssources of Big Data and problems related to their storage and processing.,2,12,12,0,0
+TOPIC_20343c282e171b,DE0806,Application of programming models used in Big Data problems.,3,14,14,0,0
+TOPIC_f5f701a51d093a,DE0806,Application of most commonly used BigData analysis methods.,4,20,20,0,0
+TOPIC_1c335c819f4217,DE0806,Application of software tools for Big Data analysis.,5,16,20,0,0
+TOPIC_dd2a23282449c0,DE0806,Presentation of data analysis results.,6,10,14,0,0
+TOPIC_05fd97ce146d81,DE0820,"Introduction. History, study of human social, political, and cultural development in humanities perspective.",1,2,2,0,0
+TOPIC_7d5f607b31e2e4,DE0820,Introduction to general philosophy. Changes in philosophic paradigms in the digital age.,2,2,3,0,0
+TOPIC_be40156f20dc03,DE0820,Anthropology and archaeology: in search for the meaning of life. Digital artefacts and digital archaeology.,3,2,3,0,0
+TOPIC_88603178ae3002,DE0820,Humanities in shaping public axiology.,4,4,6,0,0
+TOPIC_fb52d7795cdcb6,DE0820,"Philosophy, ethics, and comparative religion in shaping societies.",5,2,3,0,0
+TOPIC_0c171b3688adc8,DE0820,The art of Hegel’s Aesthetics: Hegelian philosophy and the perspectives of art history.,6,2,3,0,0
+TOPIC_6b503bda3ed146,DE0820,"Art, art history and visual culture. Digital art.",7,4,6,0,0
+TOPIC_f540bbe51f0989,DE0820,Modern thought and literature. Individual self-expression in the digital environment.,8,2,3,0,0
+TOPIC_a644c1f056e47c,DE0820,"Literature, languages and linguistics: human communication systems.",9,2,3,0,0
+TOPIC_2a41cf8cf1e132,DE0820,Philosophical aspects of juridical discourse: the values and principles.,10,2,3,0,0
+TOPIC_83a04b8de53403,DE0820,"Aspects of social sciences: humanistic, historical or philosophical approach.",11,2,3,0,0
+TOPIC_3159bd8a365690,DE0820,"Film, culture and media studies.",12,2,3,0,0
+TOPIC_625bf6d5901051,DE0820,"History and philosophy of science and technology: moderated intellectual exchange, collaborative production, and open dissemination of knowledge.",13,2,3,0,0
+TOPIC_92e99f6a993d3c,DE0820,Tests.,14,2,4,0,0
+TOPIC_ad41dcdb17153e,DE0709,"Conceptual approach to linguistic analysis, conceptualization and construal operations.",1,2,4,0,0
+TOPIC_cec5a17b06f311,DE0805,Forms of information transfer.,1,2,2,0,0
+TOPIC_c7d15d5d0368d7,DE0805,Information transfer in the interlingual setting.,2,4,4,0,0
+TOPIC_c7e6507ffb270a,DE0805,"Basics of Translation Theory (Equivalence, compatibility, alignment.",3,4,4,0,0
+TOPIC_5a901316be7691,DE0805,"Semantic aspects of ITT, cognitive theory, concept mapping.",4,4,4,0,0
+TOPIC_c9d5a27e41dee5,DE0805,Pragmatic aspects of ITT presupposition/implicature/explicature.,5,6,6,0,0
+TOPIC_0461dd825c0e02,DE0805,Cultural aspects of ITT.,6,4,4,0,0
+TOPIC_952df2b3f9870e,DE0805,"Extra-linguistic aspects of ITT (social, professional, communication).",7,4,4,0,0
+TOPIC_0981c1e93641e5,DE0805,ITT in promotional discourse. Effect. Colour. Sound.,8,4,4,0,0
+TOPIC_3c1e66b56083a9,DE0805,ITT in technical discourse.,9,4,4,0,0
+TOPIC_6ffb812ef64194,DE0805,"Localization of various media (games, web sites, data bases).",10,4,4,0,0
+TOPIC_2dd16e34af2e0b,DE0809,Semasiology and semantic classification of word stock. Types of meaning.,1,4,6,0,0
+TOPIC_0b5800dde5bc8b,DE0809,Meaning and challenges with relevant decoding of meaning: polysemy and homonymy. Linguistic and extra-linguistic context.,2,4,6,0,0
+TOPIC_3fcb13ce478fe5,DE0809,Semantic relationships and ontology building.,3,4,6,0,0
+TOPIC_50e49315833561,DE0809,Suprasegmental linguistic units: free and bound word groups and phraseological units. Idiomaticity as a challenge for the digital processing of the text.,4,4,6,0,0
+TOPIC_dbab1d4e7f1c4d,DE0809,"Approaches, methods and tools of linguistic analysis.",5,4,6,0,0
+TOPIC_2230fc6dbaf735,DE0809,Stylistics in the digital era: from convention to innovation.,6,4,6,0,0
+TOPIC_852f5bab661cda,DE0809,Strata of contemporary vocabulary. Register awareness.,7,4,6,0,0
+TOPIC_9fa26159ebfff4,DE0809,Inventory of stylistic devices and expressive means of the language.,8,4,4,0,0
+TOPIC_ec0c69061d6230,DE0809,"Genres of non-fiction writing: narrative, expository, persuasive, technical.",9,2,4,0,0
+TOPIC_59988322dc8b8f,DE0809,Concept of creative content production and management.,10,4,6,0,0
+TOPIC_8c736c6220a03b,DE0809,"Creating a personal digital identity: nature of narrative, selective approach to data representation. Memoir, diary, blog.",11,4,4,0,0
+TOPIC_b9042b9972a5a2,DE0809,"Historical writing: popular, academic, official, people’s history.",12,2,4,0,0
+TOPIC_19ee60d71a6471,DE0809,"Philosophical writing: religious, philosophy, cult writing.",13,2,4,0,0
+TOPIC_aa24f8113121c6,DE0809,"Criticism: rhetorical, textual, historical, psychological criticism.",14,2,4,0,0
+TOPIC_3318b712e9a50a,DE0809,Creative content creation for digital media.,15,2,6,0,0
+TOPIC_affac1c0ea8f25,DE0809,"Persuasive and motivational writing: ideology, propaganda, advertising.",16,4,4,0,0
+TOPIC_f3397ba993ef96,DE0809,"Guidance writing: manuals, regulations, guides.",17,2,4,0,0
+TOPIC_6abf533f62bb9e,DE0809,Website structure and content management.,18,4,6,0,0
+TOPIC_11614d413a1ad8,DE0809,Assessment tests. Presentation of portfolios.,19,4,4,0,0
+TOPIC_e39aed33097b57,DE0819,"Needs analysis. Analysis of the preferred learning styles, modes, and dominating perception channels of the students. Introduction to LSP, the notion of the controlled vocabulary.",1,4,4,0,0
+TOPIC_02129ff01e95eb,DE0819,"Educational language technologies: possibilities and limitations (e.g., Duolingo, Rosetta Stone).",2,4,6,0,0
+TOPIC_43bf263fbc40ef,DE0819,"Work with professional texts. Fact file. Digital tools for information structuring, prioritizing, mining, and representation (e.g., Word Cloud, Bubble)",3,6,12,0,0
+TOPIC_521b8eaacff0f0,DE0819,"Work with professional texts: building professional glossary, usage of terms in professional and general contexts. Ontology building software (e.g., Word Net, Semantic Web)",4,4,12,0,0
+TOPIC_f3c2afc85d53cd,DE0819,Tools for building logical scheme of the text. Denotative graphs. Information mapping.,5,4,6,0,0
+TOPIC_7508425c4aecab,DE0819,"Modality and truth condition. Negotiation, argumentation, and persuasion strategies.",6,4,8,0,0
+TOPIC_e510bd068fc802,DE0819,Professional encounters and contexts: building pragmatic awareness in the digital environment. Case studies and business games.,7,6,8,0,0
+TOPIC_7184531612f1df,DE0819,"Information search, credibility testing, summary. Use and analysis of the output of text generation engines (ChatGPT, etc.) Presentation of results, self and peer assessment.",8,6,6,0,0
+TOPIC_002209788ab00c,DE0819,"Motivational and persuasive public speaking: making presentations, delivering a report, participating in viva voce. Efficient rhetorical strategies. Building an efficient digital identity.",9,6,8,0,0
+TOPIC_9de18807bb0f51,DE0819,Information processing and HOT skills. Digital narratives and digital storytelling.,10,4,6,0,0
+TOPIC_7267aea493f667,DE0819,"Workshops on commercial awareness, financial and legal literacy: LSP for boosting employability.",11,6,6,0,0
+TOPIC_5c718c95e15389,DE0819,Content development and delivery. Aspects of technical and research writing in LSP.,12,4,8,0,0
+TOPIC_f6fb6b7a77d542,DE0819,Assessment tests.,13,6,6,0,0
+TOPIC_eeb9e1560a1571,DE0817,Software project management. Requirements for model of software project management.,1,4,4,0,0
+TOPIC_b19867604e1a7b,DE0817,"Software project management models: delivery-oriented model, spiral model, WINWIN model.",2,2,2,0,0
+TOPIC_25ae0b7803d54d,DE0817,Software project planning process. W5H2 principle. Project calendar. Software project management tools.,3,6,10,0,0
+TOPIC_3bebafbdb197e8,DE0817,Risk management. Object-oriented project management. Software configuration management.,4,4,5,0,0
+TOPIC_5c5b5b1d22cb54,DE0817,Human resource management models. Work organization. Requirements for project manager and manager of developing group.,5,4,8,0,0
+TOPIC_d7b62044f83526,DE0817,Software cost estimation: Algorithmic and analytic models.,6,4,5,0,0
+TOPIC_ca36c9c50f4f97,DE0817,"COCOMO models for cost estimation: basic model, intermediate model, detailed model.",7,8,16,0,0
+TOPIC_1f6a425e96cbb1,DE0817,Software cost estimation based on Function Point Analysis (FPA). COCOMO II.,8,4,6,0,0
+TOPIC_b6c525bfe4a7be,DE0817,"Software metrics for analysis model, specification, design, code, testing and maintenance.",9,8,12,0,0
+TOPIC_80b4df35725548,DE0817,"Models of software quality management. Quality parameters and models, planning and control.",10,4,6,0,0
+TOPIC_470d60ca1594e7,DE0817,"Software project reviews: management review, technical review, inspection, walkthrough and audit.",11,2,3,0,0
+TOPIC_9e821dd500c59d,DE0807,"Fundamentals of the software development process, fundamentals of algorithm development, pseudocode.",1,6,6,2,6
+TOPIC_7e82313abc5ee0,DE0807,Basics of the C programming language.,2,15,15,8,22
+TOPIC_64626fe3f46a7f,DE0807,Introduction to data structures.,3,15,15,8,22
+TOPIC_17f335a92d1d01,DE0807,Basics of the Python programming language.,4,15,15,8,22
+TOPIC_a45051172aa3c8,DE0807,Databases. Basics of the Structured Query Language (SQL).,5,10,11,5,16
+TOPIC_fe7837fccf8839,DE0807,"Basics of web project development (HTML, CSS, JavaScript).",6,15,15,8,22
+TOPIC_fe054e403979cf,DE0807,Cookies.,7,4,5,3,10
+TOPIC_94af0367f2ccf4,DE0813,Working with large text documents.,1,9,9,0,0
+TOPIC_d2bec825cc4e59,DE0813,Input data validation in spreadsheets.,2,5,5,0,0
+TOPIC_7906abbc448638,DE0813,Data auditing in spreadsheets.,3,3,3,0,0
+TOPIC_5b09517892dc3d,DE0813,"Programming in MS Excel environment, macros, creation of user interface.",4,3,3,0,0
+TOPIC_406c33601ebd09,DE0813,HTML basics and work with HTML-editors.,5,5,5,0,0
+TOPIC_c46f930f30d8d3,DE0813,Graphical Editors.,6,5,5,0,0
+TOPIC_2d6686717405ba,DE0813,"Software interaction, software integrity.",7,5,5,0,0
+TOPIC_016aab3455a9eb,DE0813,Logic of presentation creation and sequence of information.,8,5,5,0,0
+TOPIC_8a970c1406fb86,DE0824,Course introduction. HTML document structure. Tags. Text formatting.,1,5,5,0,0
+TOPIC_39e1e662603251,DE0824,Lists. Hyperlinks. Images. Tables.,2,5,5,0,0
+TOPIC_e776f76dc2e1e4,DE0824,Forms. Creation and parcing of forms.,3,5,5,0,0
+TOPIC_d3d802e2ad4ee4,DE0824,Frames. Frame creation and working principles.,4,5,5,0,0
+TOPIC_815ddff1efa07a,DE0824,"CSS: definitions, abilities, examples.",5,5,5,0,0
+TOPIC_47913a8e7f5c86,DE0824,JavaScript usage in HTML. Variables. Operators.,6,5,5,0,0
+TOPIC_fb20704a71866a,DE0824,Functions. Events. Form parsing.,7,5,5,0,0
+TOPIC_b172409a61153e,DE0824,OOP model in JavaScript. Browser objects. Inner objects.,8,5,5,0,0
+TOPIC_e8f6359cda02e0,DE0825,Engineering and technological development history,1,2,3,0,0
+TOPIC_65565b6fe227a9,DE0825,Innovative solutions,2,4,6,0,0
+TOPIC_db66d8078db7df,DE0825,"Critical thinking about proposed engineering solutions regarding economic, environmental, and social aspects",3,4,6,0,0
+TOPIC_a308222ebb0526,DE0825,Generation and evaluation of alternative ideas,4,2,3,0,0
+TOPIC_903b559a6addba,DE0825,Technical writing,5,2,3,0,0
+TOPIC_aa46932ebf4c73,DE0825,Tests,6,2,3,0,0
+TOPIC_594b2ad71c2988,DE0825,Laboratory works about Information and communication technologies,7,16,24,0,0
+TOPIC_3f1bec886230ce,DE0826,"Introduction to Editing. The Ethics of Editing. The Role of Editor, Proofreader and Copyeditor.",1,2,3,0,0
+TOPIC_ac9a1de203668d,DE0826,"Software for Management of the Entire Editorial Workflow. Editing Tools of MS Word, Acrobat Reader, SDL Trados Studio.",2,4,6,0,0
+TOPIC_db137aed36e9f9,DE0826,"Identifying Functional Style, Genre, Mode of Communication, and Target Audience.",3,2,3,0,0
+TOPIC_e47b782f7fe44b,DE0827,"Introductions, course goals and planned results. Overview of books and electronic sources needed for class. Assignment.",1,2,1,1,1
+TOPIC_54beb318298440,DE0827,"Practicum: Brainstorming, writing research questions; formulating hypothesis.",2,2,1,1,1
+TOPIC_f218be4efb6a72,DE0827,Lecture: IMRaD as an approach to writing scientific papers.,3,2,1,1,1
+TOPIC_19510b564ee290,DE0827,Practicum: students describe research methods and how data will be collected and analysed.,4,2,1,1,1
+TOPIC_579b34a0e5e881,DE0827,Lecture (guest lecturer): Selecting representative data; entering meaningful tables and figures.,5,2,1,1,1
+TOPIC_49b72c4120186b,DE0827,"Practicum: Creating a research plan—outline, mind-map. Sharing results.",6,2,1,1,1
+TOPIC_6b8a3a7d96ffe4,DE0827,Lecture: Critical thinking and critically analysis of sources. Presenting evidence.,7,2,1,1,1
+TOPIC_1421423c8e0767,DE0827,Lecture: Structuring your writing; paragraphing and topic sentences.,8,2,1,1,1
+TOPIC_9f71fe44f00419,DE0827,Lecture: Using quotes successfully; paraphrasing; avoiding plagiarism.,9,2,1,1,1
+TOPIC_1755a6fb770e7b,DE0827,Lecture & Practicum: Writing the abstract; class begins drafting abstract.,10,2,1,1,1
+TOPIC_3a25a324a2963a,DE0827,Lecture: Using appropriate reference styles.,11,2,1,1,1
+TOPIC_117a5a286b633b,DE0827,Lecture & Practicum: Review article writing; begin writing first draft.,12,2,1,1,1
+TOPIC_f92573b68e6982,DE0827,Practicum: Activities: bringing first draft to class; xchanging drafts and students make comments and suggestions.,13,2,1,1,1
+TOPIC_831a81f0ed2c25,DE0827,Practicum: Student short power point presentations of research.,14,2,1,1,1
+TOPIC_0a57848a30def0,DE0827,Practicum: Exchanging articles in class; matching article to relevant publisher.,15,2,1,1,1
+TOPIC_3a5fed4a727774,DE0827,Individual work.,16,2,33,1,49
+TOPIC_bbe2cac6c4dbee,DE0816,Introduction to the course. Tools to be used.,1,2,1,1,2
+TOPIC_0b1c73727a5a71,DE0816,What is graphic design. Graphic design and computer graphic history. Graphic design components and elements. Layout and composition.,2,1,2,0,3
+TOPIC_09e4240261ae57,DE0816,Typefaces and Typography. Font and typeface. Anatomy of letters. Typographic rules and guidelines. Matching typefaces.,3,2,1,1,2
+TOPIC_51dbfc11ff135a,DE0816,Colour rules and guidelines. Colour wheel. Colour palettes; choosing the right colour. Psychology of colours. RGB and CMYK. Colour screens and their types.,4,2,6,0,8
+TOPIC_ed17ebb8fa6c5c,DE0816,Image file formats and their characteristics. Bitmaps (raster image) and vectors.,5,1,2,1,2
+TOPIC_8e9ac7c295a98a,DE0816,Digital photography and the principles of digital image manipulation. Product or object photo on white background.,6,1,1,0,2
+TOPIC_230fa5b8663498,DE0816,"Intro to Adobe Illustrator. Getting acquainted with the interface and main tools, preferences.",7,2,4,1,4
+TOPIC_49effed9a3a8e8,DE0816,Intro to Adobe Illustrator. Forms and Objects. Text and Colour. Standard Swatches and Global Swatches. Gradients. File saving.,8,1,4,1,4
+TOPIC_cfd1434c9d187c,DE0816,Intro to Adobe Illustrator. Vectorization of Bitmaps. Image Trace. Patterns and seamless patterns for backgrounds. Move and Transform. Automated patterns. Saving the work and file exports.,9,2,0,0,1
+TOPIC_4d97cff4d347ac,DE0816,"Intro to Adobe InDesign. Getting acquainted with the interface and main tools, preferences.",10,1,4,0,4
+TOPIC_6128670f1d4c00,DE0816,"Intro to Adobe InDesign. Frames, placing the text and images, editing. Styles: Object Styles, Character Styles, Paragraph Styles. Prepress presets.",11,0,8,1,10
+TOPIC_8b7a73e140dad0,DE0816,"Intro to Adobe Photoshop. Getting acquainted with the interface and main tools, preferences.",12,1,1,0,1
+TOPIC_f13789d95fb142,DE0816,Intro to Adobe Photoshop. Object selection tools and layers. Masks. Image and Object manipulation. Colour correction. Difference between destructive and nondestructive editing. Saving with Layer Comps,13,1,1,0,1
+TOPIC_080b9d63ae627f,DE0814,Visual storytelling - opportunities and challenges. Technology enablers. Definition of initial creative idea.,1,2,1,1,2
+TOPIC_881c5f5dc7044d,DE0814,"A short history of early cinematic editing, fundamentals of montage theory. Developing a new video story from given shots of a movie.",2,1,2,0,3
+TOPIC_7b8d97ae4b77dd,DE0814,Narrative and documentary films. Introduction to scriptwriting using story structure models.,3,2,1,1,2
+TOPIC_ee585af5ac0515,DE0814,"Preproduction stage. Preparing the production plan, scheduling, planning and budgeting.",4,1,6,0,8
+TOPIC_ef296274d7f261,DE0814,"Storyboard. Shot types, camera angles, composition and framing, movement of the camera.",5,1,2,1,2
+TOPIC_acdf094a4c9e86,DE0814,"Introduction to sound, use of sound in the movies. Dialogue, sound effects, and music.",6,2,1,0,2
+TOPIC_725fa17c7d7938,DE0814,"Production stage. Cameras and lenses, viewfinders and monitors, timecode. Camera settings workshop, including exposure, white balance, zoom and focus.",7,2,4,1,4
+TOPIC_a6918069a32ece,DE0814,Recording audio for video taking into account environmental factors. Selecting appropriate microphones and recorders. Recording dialogue.,8,1,4,1,4
+TOPIC_6760dfccba804f,DE0814,Video Lighting Principles and techniques in natural and artificial light conditions.,9,2,0,0,1
+TOPIC_683d9d304991cb,DE0814,Hands on lighting workshop. Creating lighting diagrams and lighting setups for various purposes.,10,1,4,0,4
+TOPIC_7d8719ec912cfb,DE0814,Producing video for individual projects according to the production plan.,11,0,8,1,10
+TOPIC_512b67d9fab576,DE0814,Timelapse and Hyperlapse techniques for cinematography.,12,1,1,0,1
+TOPIC_2f62e7dc447d68,DE0814,Using stop motion animation techniques.,13,1,1,0,1
+TOPIC_9d7596c5a09df0,DE0814,Elements of successful video interviews. Hands on interview filming workshop.,14,1,2,1,2
+TOPIC_cbe0b5e43aa0d1,DE0814,"TV production principles and technology, real-time editing and video streaming.",15,1,2,1,2
+TOPIC_fc6765eb75c8b4,DE0814,Postproduction workflow - process and tools. Video editing using non-linear video editing systems.,16,2,2,2,2
+TOPIC_937bc75d0d0555,DE0814,Editing techniques for documentary films and unscripted television.,17,1,1,0,1
+TOPIC_5ca160516ed7a5,DE0814,Primary colour correction principles and practice.,18,2,1,1,4
+TOPIC_8dfbb40d772d7f,DE0814,Secondary colour correction (grading) process.,19,2,1,1,1
+TOPIC_600e3606a6fc2d,IV0623,"Introduction, concepts.",1,4,4,2,8
+TOPIC_46483919e3c34b,IV0623,"Digital transformation, its impact on business models.",2,8,12,5,18
+TOPIC_7060807f5fddb7,IV0623,"Digital marketing. Types of digital media, roles and opportunities for marketing technologies.",3,12,18,6,24
+TOPIC_91dfa44113c651,IV0623,Digital business intelligence and big data analysis techniques.,4,8,10,4,14
+TOPIC_33b48007eacefa,IV0623,"Target market and positioning. Brand value, brand archetypes and their role in product, service development and communication.",5,10,18,5,22
+TOPIC_aa12a2713053bd,IV0623,Types and roles of communication channels. Determination and evaluation of efficiency criteria for communication channels.,6,10,16,5,20
+TOPIC_4ae78edbd1cddd,IV0623,Modern Strategic Marketing; integrated marketing and communication. Modern Market Analysis Methods in Digital Environment.,7,12,18,5,22
+TOPIC_be40071d929264,IV0652,Introduction to the Course. Introduction to the product development process.,1,2,2,0,0
+TOPIC_142173acce28ec,IV0652,Project proposal presentation. Approval of project proposals. Project group formation. Project Management,2,2,2,0,0
+TOPIC_a8391dbd0e3cb2,IV0652,Listening to customers and identifying customer needs. Product specification.,3,4,4,0,0
+TOPIC_b43320c9b4733d,IV0652,Needs-Metrix matrix development. Development of Concepts.,4,3,6,0,0
+TOPIC_03c91a814ee815,IV0652,Product planning. Concept selection (tools and methods),5,3,6,0,0
+TOPIC_c95622978cdefa,IV0652,"Development of product process, its planning and integration in existing processes of a company. Process optimization.",6,2,4,0,0
+TOPIC_f24292ae4ef04f,IV0652,Concept Testing.,7,4,6,0,0
+TOPIC_cf53f4eb2ee039,IV0652,Product Architecture. Robust Design.,8,2,4,0,0
+TOPIC_a52f4b7ab02744,IV0652,Design for Manufacturing Prototyping. Economics of new product development. New product marketing.,9,8,10,0,0
+TOPIC_c7de2fc0a59e43,IV0652,Final Presentation and Demonstration of prototypes and product development processes,10,2,4,0,0
+TOPIC_330d1ff6e858cc,DE0322,"Introduction to 3D graphics modeling, creation of primitive objects.",1,5,5,0,0
+TOPIC_2b21f5c2dd8dcf,DE0322,Polygonal modeling. Creation of complex object.,2,5,5,0,0
+TOPIC_b696f86c1b1261,DE0322,Curves and surfaces in 3D object modeling. Creation of 3D object using curves.,3,5,5,0,0
+TOPIC_8610f31a4b647b,DE0322,3D objects' materials and textures.,4,5,5,0,0
+TOPIC_6debe315a9db8a,DE0322,Lighting in 3D objects' modeling. Types of light sources and their implementation.,5,5,5,0,0
+TOPIC_b7bb0a5e0ed22d,DE0322,Basic principles of character animation. Realistic movement.,6,5,5,0,0
+TOPIC_2cfa076e4ceba6,DE0322,Particle animation.,7,5,5,0,0
+TOPIC_af1773c80091b9,DE0322,Creation of a realistic character model.,8,5,5,0,0
+TOPIC_443204b9b100f1,AD0188,Morphology in Architecture. Dialectics. Art and Science. Tradition and Creativity.,1,2,0,0,0
+TOPIC_e17ca01f8540a0,AD0188,Process of Culture. Space of Culture. Creativity in Research and Art. Basic Principles of Research.,2,2,1,0,0
+TOPIC_dd900927a96adb,AD0188,Morphological Analyses. Regional and National Identity. Function and Identity.,3,2,1,0,0
+TOPIC_fc63523bc854db,AD0188,Shape and Identity. Structure. Landscape. Context and Identity.,4,2,1,0,0
+TOPIC_95ebd7c789ea42,AD0188,Architecture and Environment. Architecture and Power. Ideology and Identity.,5,2,1,0,0
+TOPIC_3baa92fffadeda,AD0188,Architecture and Social Processes. Social Identity.,6,2,1,0,0
+TOPIC_bf98b78c596c01,AD0188,Legal and Ethical Framework of Preservation of Historical Sites.,7,2,1,0,0
+TOPIC_5fd741c96db563,AD0188,International Scientific Conference of RTU,8,4,8,0,0
+TOPIC_5c70bb0861e2cf,AD0188,Seminar on selection of the semester work activities and topics.,9,4,8,0,0
+TOPIC_67118fc3f20294,AD0188,Seminar on the semester work plan.,10,4,8,0,0
+TOPIC_dff8ec294a8fdd,AD0188,Seminar on the selection of information sources for the semester work; methods and criteria.,11,4,8,0,0
+TOPIC_86e5b219a7cb21,AD0188,Final seminar on presentation of the semester work. Discussion.,12,4,8,0,0
+TOPIC_075a3280fdff8b,DE0822,Installation for Programming using Python.,1,2,1,2,1
+TOPIC_0587076dfa2af2,DE0822,Creating a background for game application using Python.,2,4,3,2,5
+TOPIC_103f2dcf187cac,DE0822,Car and movement in the game.,3,6,8,3,11
+TOPIC_9767b38312e272,DE0822,Creating boundaries for the game application.,4,6,2,2,6
+TOPIC_5869c487f19ace,DE0822,Adding and using images in game development.,5,6,4,3,7
+TOPIC_b02a7cb2c33b9b,DE0822,Creating a score card in the game application.,6,2,8,1,9
+TOPIC_13e43b2795706a,DE0822,Learning and creating interactive multimedia e-learning objects.,7,6,8,3,11
+TOPIC_45bbcb12b237d1,DE0822,Understanding educational technology. Trends and issues in educational technology. Technology innovations for teaching and learning.,8,2,2,1,3
+TOPIC_e7bee801db05ec,DE0822,Effective integration of technology in educational activities. Learning theories that are used to inform e-learning material development and delivery.,9,2,4,1,5
+TOPIC_78bfd3f0662c4a,DE0822,"Instructional design principles. Foundations in learning research, requirements for instruction, task and needs analysis, learning situations and instructional models, learner characteristics.",10,2,2,1,3
+TOPIC_73b33fd11c30b3,DE0822,Information Communication Technologies (ICTs) for teaching and training over a distance. Supporting face-to-face learning and blended learning with technology tools.,11,1,2,1,2
+TOPIC_6cdec94d603adf,DE0822,E-learning delivery and study support. Synchronous and asynchronous support modes.,12,1,5,1,5
+TOPIC_d39504925b73f3,DE0822,Evaluation activities to measure student progress.,13,2,2,1,3
+TOPIC_b32e6a75dbca26,DE0801,The study course overview. E-learning environment of the course. Holistic view to the competencies of the 21st century.,1,1,1,1,2
+TOPIC_fa625cf864cc4f,DE0801,Digital natural processes modelling historical developments.,2,1,1,0,2
+TOPIC_ac781b58c23b11,DE0801,Interactivity in the natural science models.,3,2,1,1,3
+TOPIC_f7f02c24c2fd00,DE0801,Types of nature science digital models.,4,4,10,1,12
+TOPIC_828647129e09ac,DE0801,Pedagogy of digital nature science modelling.,5,4,4,1,12
+TOPIC_a6874a6735d828,DE0801,"Examples of nature models: environmental science, physics, biology.",6,10,16,3,18
+TOPIC_1c94c9292009cf,DE0801,Standards of models.,7,2,1,1,1
+TOPIC_46a7e5fa2eff41,DE0801,Exam.,8,8,14,8,14
+TOPIC_2712ab35a4e675,DE0800,"Introduction to Programming and Python. Help, documentation, settings.",1,2,3,0,0
+TOPIC_edfb4b81bc08fa,DE0800,"Code repositories, Git, GitHub, text editors.",2,2,3,0,0
+TOPIC_731997acb706b6,DE0800,"Variables, data types.",3,2,3,0,0
+TOPIC_89028377f35c0b,DE0800,"Flow control - branching, optional constructions, cycles - while, for.",4,2,3,0,0
+TOPIC_a32e844964299f,DE0800,"Data structure list, sets, operations, syntax.",5,3,5,0,0
+TOPIC_4b9112aa73ab8b,DE0800,"Text data, dictionaries, methods for working with dictionaries.",6,3,4,0,0
+TOPIC_29a195e1ba5dde,DE0800,Functions.,7,2,3,0,0
+TOPIC_230e72af90c5fb,DE0800,"Classes, modules, use of external libraries.",8,2,3,0,0
+TOPIC_ca36106e09df3e,DE0800,Text data processing.,9,2,3,0,0
+TOPIC_b2dbf8dbafc8b2,DE0800,"Use of web data, JSON, receiving information from services.",10,2,3,0,0
+TOPIC_bae173096d51d2,DE0800,Language processing libraries.,11,2,3,0,0
+TOPIC_7455361e7141b6,DE0800,Visualization libraries.,12,2,3,0,0
+TOPIC_12f1a2993ed26e,DE0800,Stylometric analysis.,13,2,3,0,0
+TOPIC_9b992b41a5bbf4,DE0800,Online data analysis (social networks).,14,2,3,0,0
+TOPIC_f50e58eef9bd58,DE1002,Main concepts of natural language processing.,1,6,9,0,0
+TOPIC_ff7437b7951bcd,DE1002,"Methods and applications of natural language processing related to syntax (text segmentation, lemmatization, stemming, part-of-speech tagging, terminology extraction a.o.).",2,16,24,0,0
+TOPIC_6d4ccb6db3da72,DE1002,"Methods and applications of natural language processing related to semantics (word sense disambiguation, topic modeling, text classification, sentiment analysis, etc.).",3,20,30,0,0
+TOPIC_4c463a351a1222,DE1002,Evaluation and interpretation of obtained results.,4,6,9,0,0
+TOPIC_3b2abe4384a379,DE1002,Software tools for natural language processing.,5,16,24,0,0
+TOPIC_01332820a34aca,DE0803,Introduction. Methods and Goals of Terminology Management.,1,2,3,0,0
+TOPIC_200790aefd16bc,DE0803,Definitions. The Terms Assigned to the Concepts. Concepts and Concept Structures Used in a Field or Domain of Activity.,2,2,3,0,0
+TOPIC_c28decedd0949a,DE0803,Classification Systems. Use and Comparison of Terminology Classification Systems.,3,2,3,0,0
+TOPIC_863cfcb8e081f7,DE0803,"Equivalent and Non-equivalent Terminology. Bilingual or Multilingual Terminology, Establishing Correspondences.",4,2,3,0,0
+TOPIC_7edc57582b13a5,DE0803,New Term Formation. Terminology Creation in Latvia: a Case Study.,5,2,3,0,0
+TOPIC_3b00fb990faf59,DE0803,Terminology Standardization in Latvia: a Case Study.,6,2,3,0,0
+TOPIC_9d76a2f1c1492d,DE0803,Evaluation and Description of Terminology Resources. Terminology Standardization and Unification.,7,2,3,0,0
+TOPIC_514f286579ea0b,DE0803,The Euro Term Bank System. Standardization and Eurotexts.,8,2,3,0,0
+TOPIC_020cd3ec997198,DE0803,Non-standardized Variants of Term Alignment: a Case Study.,9,2,3,0,0
+TOPIC_71191eddfbb051,DE0803,Digital Approach to Terminology. Terminology Databases.,10,4,6,0,0
+TOPIC_1c9e0fa0afdbbe,DE0803,Digital Approach to Terminology. Terminology Databases. Copyright in Terminology.,11,2,3,0,0
+TOPIC_2c5bacfd1381e4,DE0803,Terminotics. Corpus Linguistics.,12,2,3,0,0
+TOPIC_38e1d7623c6baf,DE0803,Infoterm: a Network of Terminology Centres.,13,2,3,0,0
+TOPIC_a3c4963acd543a,DE0803,Terminology management: Types of Dictionaries. Layout. Specialized Lexicography.,14,2,3,0,0
+TOPIC_2a5c277a0ceeda,DE0803,Terminology Planning and Management.,15,2,3,0,0
+TOPIC_f152a696de28eb,BM0758,Introduction. Culture Heritage concepts and Digitalisation Standards.,1,6,7,2,12
+TOPIC_e5ca7bbd3b79b2,BM0758,Technologies for obtaining geometry of cultural objects in 2D and 3D environments.,2,6,6,2,10
+TOPIC_eebb2449c38658,BM0758,"3D geospatial modelling technologies, surface algorithms.",3,6,7,2,10
+TOPIC_ca67f9db066c93,BM0758,"Use of historical data, combination of different data sources by historical and geometric survey of objects.",4,6,6,2,10
+TOPIC_217f59e9fa328a,BM0758,"Open geospatial datasets in Latvia and worldwide, ESA datasets.",5,4,5,2,10
+TOPIC_49b94dab2b4fe1,BM0758,"GIS datasets, virtual and augmented reality technologies un Culture Heritage.",6,4,7,2,10
+TOPIC_c13f4b378ce145,BM0758,3D printing technologies and their role in digitalisation in Culture Heritage.,7,4,2,2,0
+TOPIC_cfb6cc35cdac5f,BM0758,Independent presentation of practical works and research work.,8,4,0,4,0
+TOPIC_49260925057891,DE0812,Introduction: Notion of Visual Culture. History and Development.,1,2,3,0,0
+TOPIC_8528295dd86c28,DE0812,Visual Culture: Subdisciplines 1.,2,2,3,0,0
+TOPIC_aecbf51898d699,DE0812,Visual Culture: Subdisciplines 2.,3,2,3,0,0
+TOPIC_4698da0090c1f1,DE0812,Visual Culture vs Image Science: Anglo Saxon and German Traditions.,4,2,3,0,0
+TOPIC_894ff4cdef6324,DE0812,Intertextuality vs Intermediality.,5,2,3,0,0
+TOPIC_667c5c57f906f0,DE0812,"Visual Components in Written Speech: Graphics, Colours, Images.",6,2,3,0,0
+TOPIC_d5fc11b1a885a2,DE0812,Visual Metaphor: Notion and Research (Theory).,7,2,3,0,0
+TOPIC_0898b55e76217b,DE0812,Visual Metaphor: Notion and Research (Case Studies in multilingual environment).,8,2,3,0,0
+TOPIC_f46a8d3c630f47,DE0812,"Linguistic Analysis of Colour: Traditions, Terms, Perception, Influence.",9,2,3,0,0
+TOPIC_2c1f3182382dd0,DE0812,Video Games: Linguistic Analysis.,10,2,3,0,0
+TOPIC_b650250147e978,DE0812,Comics: Image and Text.,11,2,3,0,0
+TOPIC_14f43a8d50830f,DE0812,Advertisement: Role of Language (Slogans and Visualism).,12,2,3,0,0
+TOPIC_aa6192ef42ff54,DE0812,Media Studies: Shifting from Paper to Screen.,13,2,3,0,0
+TOPIC_a3cbfea9792ab0,DE0812,Linguistic Analysis of Visual Art: Retelling the Imagery.,14,2,3,0,0
+TOPIC_c4f4f85a31fbfe,DE0704,Introduction to Digital Rhetoric.,1,2,5,0,0
+TOPIC_7a4f5fed5f90f4,DE0704,Digital Humanities and Internet Studies.,2,2,5,0,0
+TOPIC_12ffb13917c5e2,DE0704,The Theory of Text. Text in Digital Rhetoric. Brief Survey of Theories on Digital Rhetoric.,3,2,5,0,0
+TOPIC_0b2fea31d8dc11,DE0704,Western Classical Rhetoric (Greek and Roman).,4,2,5,0,0
+TOPIC_f2eeb4080d30d7,DE0724,Introduction: corpus assisted studies and interdisciplinary research.,1,2,2,0,0
+TOPIC_76badf121c22e9,DE0724,Corpus-assisted analysis in socio-linguistics.,2,2,6,0,0
+TOPIC_109bec9e16ab7d,DE0724,Seminar on an academic text in the field of linguistics.,3,2,4,0,0
+TOPIC_e65d70c7b5885c,DE0724,Corpus-assisted analysis in literary studies.,4,2,4,0,0
+TOPIC_c94b4d1e697d60,DE0724,Corpus-assisted analysis and cultural evolution.,5,2,6,0,0
+TOPIC_eb9cd17136db52,DE0724,Seminar on an academic text in the field of literary studies/ cultural evolution.,6,2,6,0,0
+TOPIC_d618565d98570f,DE0818,"Introduction. Description of the study course, allocation of tasks.",1,2,2,0,0
+TOPIC_7a18226551a0a8,DE0818,The early literature and literature at the beginning of the 18th and 19th century in the territory of Latvia.,2,4,6,0,0
+TOPIC_ac351e8b2b3d25,DE0818,Literature of the 19th and 20th century in the territory of Latvia.,3,4,6,0,0
+TOPIC_240d773bce82fb,DE0818,Topicalities of the 21st century literature in Latvia.,4,4,6,0,0
+TOPIC_f12a290f00e096,DE0818,The beginnings of sculpture until the 19th century in the territory of Latvia.,5,4,6,0,0
+TOPIC_3a6a7d5db8d17a,DE0818,Sculpture until the middle of the 20th century in Latvia.,6,4,6,0,0
+TOPIC_84ec584f5ee442,DE0818,Sculpture in the second half of the 20th century in Latvia.,7,4,6,0,0
+TOPIC_be4be0b635e30c,DE0818,Topicalities of the 21st century sculpture in Latvia.,8,4,6,0,0
+TOPIC_530fe35bbaa2cd,DE1066,Compositional Semantics.,1,2,5,0,0
+TOPIC_48644ef47a063a,DE1066,Categorial Grammar.,2,2,5,0,0
+TOPIC_dad921a9c6b5bd,DE1066,Word Senses in NLP and NLG.,3,2,5,0,0
+TOPIC_2687796d152ccb,DE1066,Distributional Semantics.,4,2,5,0,0
+TOPIC_d6e2c028aa401c,DE1066,Compositional Distributional Models.,5,2,5,0,0
+TOPIC_2c9bab459da551,DE1066,Meaning representation in NLP.,6,2,5,0,0
+TOPIC_21e7450556bd01,DE1066,Figurative Language in NLP and NLG.,7,2,5,0,0
+TOPIC_7791ac0f428e5a,DE1066,Information and Meaning Extraction in Digital Media.,8,2,5,0,0
+TOPIC_8975146d5c74d3,DE1066,Transformers and Contextual Word Representations.,9,3,6,0,0
+TOPIC_8203327d271043,DE1066,Topic Structure and Focus Structure in NLG.,10,3,6,0,0
+TOPIC_2fa064ba741af6,DE1066,Assessment tests.,11,2,5,0,0
+TOPIC_4c28b51019f012,DE1067,Signs and sign systems in digital environment.,1,2,6,0,0
+TOPIC_9678c2bd4da4b6,DE1067,Mediation and representation.,2,3,5,0,0
+TOPIC_4b6b53943c56d1,DE1067,Multimodality.,3,3,5,0,0
+TOPIC_9272ab7ef74d4a,DE1067,Text and textuality.,4,2,5,0,0
+TOPIC_0d26f1e06095a4,DE1067,Digital news.,5,2,5,0,0
+TOPIC_d1fec387d9f94e,DE1067,Semiotics of gaming.,6,2,5,0,0
+TOPIC_a8d09e3202b172,DE1067,Semiotics of advertising.,7,2,5,0,0
+TOPIC_cfaf270a51837f,DE1067,Intersemiotic translation.,8,2,5,0,0
+TOPIC_9f3439f5ef1db5,DE1067,Semiosphere in digital environment.,9,2,6,0,0
+TOPIC_5859f6c51b830f,DE1067,Big multimodal data.,10,2,5,0,0
+TOPIC_cb0791a5b4d898,DE1067,"Assessment tests, exam.",11,2,5,0,0
+TOPIC_f1939821e0c2ed,DE1068,Introduction to Sentiment Analysis.,1,3,5,0,0
+TOPIC_b14a9e218d9d69,DE1068,Sentiment and Emotion.,2,3,5,0,0
+TOPIC_76d41e9c442ed0,DE1068,Sentiment Analysis in Marketing Campaigns.,3,2,5,0,0
+TOPIC_d061e61ae88cf0,DE1068,Sentiment Analysis in Cultural Discourse.,4,2,5,0,0
+TOPIC_447c426627064d,DE1068,Text Preprocessing in Sentiment Analysis.,5,2,5,0,0
+TOPIC_0c48f27ecde6bd,DE1068,Sentiment Analysis Process: Methods and Procedures.,6,2,6,0,0
+TOPIC_c7775ef217d18d,DE1068,The Role of Context in Sentiment Analysis.,7,2,5,0,0
+TOPIC_957b604e9097b0,DE1068,The Role of Domain-specific Language in Sentiment Analysis.,8,2,5,0,0
+TOPIC_fa3b991c6570cb,DE1068,Sentiment Lexicons and Dictionaries.,9,2,5,0,0
+TOPIC_00632b2a3d9396,DE1068,Pre-trained Language Models for the Sentiment Analysis.,10,2,6,0,0
+TOPIC_c02bc1c9d1f497,DE1068,Ethical Considerations in Sentiment Analysis.,11,2,5,0,0
+TOPIC_4c301ef2b16b42,DE1095,"Fundamentals of ethics – main schools of ethical philosophy, moral dilemmas raised by technological developments, issues of human rights, privacy and freedom in the digital age.",1,4,4,0,0
+TOPIC_166f069d1c3612,DE1095,"Digital ethics and regulatory frameworks – principles of digital ethics and their application in technology, international regulations and guidelines in the field of artificial intelligence, data protection, transparency and accountability mechanisms.",2,6,10,0,0
+TOPIC_dcdbe179091e1b,DE1095,"Technical foundations of LLM – development of artificial intelligence and neural networks, LLM architecture and operating mechanics, natural language processing and text generation principles.",3,12,18,0,0
+TOPIC_ae48f659c145a9,DE1095,"LLM training and limitations – training data collection, preparation and volume design, model limitations, algorithm efficiency and quality assessment.",4,12,18,0,0
+TOPIC_8b7fc3661c595e,DE0810,Computer history – from mechanical computing systems to early electronic computers. The emergence of knowledge society in 21st century.,1,6,8,1,14
+TOPIC_44c9cf178c8940,DE0810,How the computer is built? (Hardware and Software).,2,3,4,1,7
+TOPIC_79469b5e0646c3,DE0810,Binary counting system. Hexadecimal counting system. ASCII table. Programming languages. Algorithms.,3,5,7,2,10
+TOPIC_99489e5f171594,DE0810,Comparing central processing unit (CPU) and graphical processing unit (GPU).,4,1,1,1,1
+TOPIC_dbaa2e800915c4,DE0810,"Memory and data storage (RAM, ROM, HDD, SSD, tape, optical media, cache memory).",5,3,4,1,6
+TOPIC_14da6e0d7ad902,DE0810,The concept of data network. History of data network development. Global and local data networks. Data bus as a data network. Physical and virtual networks.,6,4,5,1,6
+TOPIC_cf8e68058dc67b,DE0810,Transmission control protocol basics. IP’s address classes and sub-nets. Network layering architecture. Seven-layer architecture in OSI model. TCP/IP basics,7,4,6,1,9
+TOPIC_018527b5065373,DE0810,"IP Address allocation, IP PORT allocation. DHCP service. DNS protocol. Utilities PING and IPCONFIG. IEEE 802.x standards",8,1,2,1,2
+TOPIC_99bc124976ef24,DE0810,"Network topology: Bus, Star, Ring, Hybrid. Basics of Ethernet network technology. ALOHA protocol. BLUETOOTH. NFC.",9,2,2,1,3
+TOPIC_1c7ea590dd359b,DE0810,"Computer network equipment for LAN connection and expansion. Switches, routers, wireless technologies. 802.11b/g/n/ac standards. WIFI equipment and applications",10,2,1,1,9
+TOPIC_ab663c6b42bc1b,DE0810,Network administration basics. Configuration of user groups and permissions and restricting access levels.,11,1,1,1,1
+TOPIC_08f79a67323f8f,DE0810,"Physical broadcasting environment. Cable types: coaxial, RJ-45, optical cables. Transmission of data using light in optical cables.",12,2,2,1,3
+TOPIC_03fc28f50da549,DE0810,Mobile technology and GPS.,13,2,2,1,3
+TOPIC_c45009968a4ca9,DE0810,Physical process of communication technologies. Data transformation from analog to digital format and vice-versa. Data encoding-decoding. Signal Theory Basics.,14,2,2,1,3
+TOPIC_f5dc42286fc2ef,DE0810,"Multimedia (graphics, 3D, video, audio, streaming).",15,3,4,1,6
+TOPIC_07d2e1dafd102e,DE0810,"Digital cameras, sensors, etc. principles of operation and employment.",16,1,2,1,2
+TOPIC_7e24feaee56368,DE0810,"Input and output devices (printers, mouse, keyboard, display, ports, controllers, etc.).",17,2,2,1,3
+TOPIC_43bc65d240721d,DE0810,"Operating systems (Windows, Linux, MacOS, Android, iOS).",18,2,2,1,3
+TOPIC_9485879021b83b,DE0810,"Computer viruses, types and evolution. Anti-virus software, packages, set-up, configuration, application and updates. Internet, data and application security.",19,2,4,1,6
+TOPIC_6d295da88f1357,DE0810,In OS built-in security and data protection technique. System performance indicators.,20,3,4,1,6
+TOPIC_9492a19ca35f90,DE0703,"The Code of Ethics for Educators. Netiquette: Ethics, Education, and Behaviour on the Internet.",1,2,5,0,0
+TOPIC_5809da4003eff5,DE0703,"E-learning Theories, Frameworks, Models and Taxonomies.",2,2,6,0,0
+TOPIC_52ac7a9876894a,DE0703,TPACK: Technological Pedagogical Content Knowledge Framework. The Padagogy Wheel.,3,2,3,0,0
+TOPIC_d9b0e4ef3bcbae,DE0703,Online Learning Strategies and Teaching Competencies.,4,2,4,0,0
+TOPIC_68d653357e1081,DE0706,"Types of contemporary media, the regularities of their evolution.",1,4,2,1,6
+TOPIC_781c7432375465,DE0706,Individual and mass consciousness - similarities and differences. Contemporary communication theories.,2,4,4,2,6
+TOPIC_043c0a1bc54f9c,DE0706,Critical usage of discourse analysis in the research of media content and the issue of information reliability.,3,4,4,1,6
+TOPIC_d3b727d4254f5a,DE0706,Methods of mass consciousness programming in media.,4,4,4,2,6
+TOPIC_74524b21e45cf7,DE0706,"The evolution, functions, audience and personal data protection issues of social networks.",5,4,4,1,6
+TOPIC_1421fdcc154daa,DE0706,"Advertising in media: types, functions, effects.",6,4,4,2,8
+TOPIC_447b267900de9e,DE0706,The comment culture on the internet.,7,4,6,2,8
+TOPIC_cbe18ab4b55bd1,DE0710,"Introduction to the study course, social and cognitive psychology as a branch of psychology, definition and content, research methods and applied aspect.",1,1,2,0,0
+TOPIC_a910282fb47dcc,DE0710,"Personality, social identity, social self, self-esteem and their manifestations in behaviour, thinking, decision making. Influencing and forming factors.",2,2,6,0,0
+TOPIC_9bafdd913f05f2,DE0710,"Relationship building, feelings, love, loneliness, altruism and their impact on cognitive functioning.",3,2,3,0,0
+TOPIC_7859c8d11babc0,DE0710,"Group behaviour, group processes and roles, their influence on cognitive development and aging of cognitive processes.",4,2,3,0,0
+TOPIC_40ebe8f2024419,DE0710,"Decision making, heuristics and intuition.",5,1,3,0,0
+TOPIC_5ee9f591e8fa68,DE0710,"Social thinking, schemas, scripts, predictions.",6,1,3,0,0
+TOPIC_2a9b7e9e563811,DE0710,"Perceptions, attributions, attitudes, cognitive distortions and the impact of social processes on them.",7,1,3,0,0
+TOPIC_fd1d169407fb66,DE0710,"Social intelligence, emotional intelligence, intellect, and creativity.",8,1,3,0,0
+TOPIC_77db12ed8d387d,DE0710,"Memory, false memories and their role in social processes.",9,1,3,0,0
+TOPIC_ca6be6aba709e1,DE0710,Attention and its influencing factors.,10,2,2,0,0
+TOPIC_8205958574d104,DE0710,"Manifestations of social impact: social pressure, submission, influence of authority and environmental factors. Social impact in the virtual environment, cyberpsychology.",11,2,2,0,0
+TOPIC_12fdadbce7e8eb,DE0710,"Social aggression, conflicts and stress.",12,2,4,0,0
+TOPIC_09064e6477accd,DE0710,Presentation of independent works.,13,6,20,0,0

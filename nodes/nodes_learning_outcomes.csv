@@ -1,0 +1,393 @@
+﻿outcome_id,text,scope,owner_id,ordinal
+PLO_1ebb9af2c72835,can identify business goals which are supportable by ICT solutions,programme,DMB0,1
+PLO_76745b56606c3e,can identify business problems which are solvable by ICT solutions,programme,DMB0,2
+PLO_91f37de870c861,"can, using appropriate technologies, model and analyse business processes, enterprise and business architecture, and information flows, as well as to design internal and inter-institutional information systems",programme,DMB0,3
+PLO_09808414d2e073,"are able to follow advances concerning computer systems, communication technologies, and software and methods of their usage and to suggest various solutions and their combinations for raising competitiveness of enterprises and enterprise networks",programme,DMB0,4
+PLO_465bced1d37aeb,"are able, using appropriate technologies, to develop enterprise improvement strategies, to plan analysis and change management projects, and define requirements for new products and services",programme,DMB0,5
+PLO_4a604c893507de,are able to interpret business concepts in computer science and ICT terms and vice versa,programme,DMB0,6
+PLO_80bfb6cfc6e604,"can motivate, educate, and train employees to use the most appropriate ICT solutions, as well as participate in and lead inter-disciplinary and international teams",programme,DMB0,7
+PLO_c79c8f598e9749,are able to participate in international scientific projects in the area of business informatics as well as to propose and lead scientific projects,programme,DMB0,8
+PLO_294b49a5202052,"are able to follow the rules of ethics in business and information systems development, and systems analysis",programme,DMB0,9
+CLO_49b5d0eaac4149,Is able to design and implement a spatial database.,course,DE0745,1
+CLO_b41e63e637090b,Understands temporal databases and is able to design and implement them.,course,DE0745,2
+CLO_2218b2c6336a74,Understands deductive databases and is able to develop them.,course,DE0745,3
+CLO_356e06f48c8763,Understands active database technologies and is able to develop an active database.,course,DE0745,4
+CLO_8f5f8388c26b58,Is able to design and implement data warehouses.,course,DE0745,5
+CLO_ab18602b7a3449,Is able to create semi-structured data DB using XML language.,course,DE0745,6
+CLO_7e8073bb85ef89,"Understands the goals, scope and problems of enterprise architecture and requirements engineering.",course,DE0747,1
+CLO_8ffe69397fbd2f,"Is able to acquire requirements without overstepping ethical principles of business, systems analysis, and information systems design.",course,DE0747,2
+CLO_20812598ce521b,Is able to use and evaluate requirements engineering methods and tools.,course,DE0747,3
+CLO_a6154be1b7311a,Is able to represent and evaluate the As-Is and To-Be states of an enterprise architecture.,course,DE0747,4
+CLO_cab1662ef0c0ac,Is able to suggest systemic information technology solution according to the business needs.,course,DE0747,5
+CLO_c4cc1596a4e0d3,"Can classify real-world systems according to different classification criteria, being able to identify business goals which are supportable by ICT solutions.",course,DE0752,1
+CLO_763d54a280808b,Can interpret basic concepts of systems theory concerning real-world systems and are able to identify business problems which are solvable by ICT solutions.,course,DE0752,2
+CLO_bf1aa02cf94ac0,"Knows the laws and principles of systems, being able to use appropriate technologies for development of organization/enterprise improvement strategies.",course,DE0752,3
+CLO_fc2a39008b924b,"Understands the basic principles of cybernetic control of systems, being able to model and analyse business processes and information flows using appropriate technologies.",course,DE0752,4
+CLO_cabeccfba49bc7,Can construct models of system structure and carry out qualitative and quantitative analysis of enterprise and business architectures.,course,DE0752,5
+CLO_95d6e7df5968e5,"Knows applications of systems approach to management of organizations and can interpret business concepts in computer science and ICT terms, and vice versa.",course,DE0752,6
+CLO_30c0907627d7e4,Knows the basic notions of living and viable systems and can identify business problems which are solvable by ICT solutions.,course,DE0752,7
+CLO_e52d7c7688bedc,Is able to recognize and use business process modelling notations and tools.,course,DE0740,1
+CLO_c4daec9d3d3f81,"Can develop and use in business process models for analysis, management, and improvement of complex business processes.",course,DE0740,2
+CLO_de34202edd4e34,Can relate business process models to different enterprise architectures and analyse processes in compliance with the chosen architecture.,course,DE0740,3
+CLO_bfd668a8734eca,Can identify requirements for business process support by information and communication technology,course,DE0740,4
+CLO_10ed0100dc0f38,Is able to identify e-business management processes and organizational methods.,course,DE0751,1
+CLO_293791d93fefc4,Is able to collect and prepare information by performing data analysis.,course,DE0751,2
+CLO_458207834cf98a,"Is able to choose the marketing, advertising, and sales basic processes that are applicable for the task and to integrate them into e-business platforms.",course,DE0751,3
+CLO_23b09cf582f0ee,"Is able to independently use e-solutions in various subject areas: e- insurance, e-logistics, etc.",course,DE0751,4
+CLO_dfc987aeedb0cf,Is able to use web tools for e-commerce promotion. Is able to identify and manage the principles of building corporate business portals.,course,DE0751,5
+CLO_9e6bcc56ddd43f,Is able to determine project portfolio efficiency measures and allocate resources to competing projects.,course,DE0645,1
+CLO_548fff3a502c6e,Is able to analyse the project portfolio and identify the most promising projects.,course,DE0645,2
+CLO_55bd0110967b7a,Is able to integrate portfolio management into enterprise information technology architecture.,course,DE0645,3
+CLO_e4da37c1aadf45,Is able to design a technological environment for portfolio management.,course,DE0645,4
+CLO_f77fffe452e0f9,Is able to perform a knowledge audit.,course,DE0739,1
+CLO_b8f99d0f8125c1,Is able to align business strategy and knowledge management strategy.,course,DE0739,2
+CLO_3a7c2c56202326,Is able to use and evaluate knowledge management technologies.,course,DE0739,3
+CLO_d733eb5aa1e4d6,Understands the nature of knowledge and socio-ethical and administrative factors of knowledge management.,course,DE0739,4
+CLO_6517cdfd2dc0ed,Is able to design knowledge management system.,course,DE0739,5
+CLO_3afb61b74fa0be,Is able to evaluate the quality of knowledge management artefacts.,course,DE0739,6
+CLO_e86b13b4aac7e5,"Is able to explain basic principles, pros, and cons of the SSME and SOA; recognizes elements of SOA infrastructure and SOA life cycle.",course,DE0754,1
+CLO_6aea333007c43a,Can assess and explain the necessity (or the opposite) of service introduction according to organisational goals and enterprise/business architecture.,course,DE0754,2
+CLO_b3733b07dad897,Using service development tools is able to integrate services into the business process by choosing the services which are most suitable to the business goals of the enterprise.,course,DE0754,3
+CLO_9bea608b2128c6,"Is able to monitor service performance of business processes, identify the need for performance improvement, and suggest a service improvement plan.",course,DE0754,4
+CLO_387b9fe79584aa,"Can discuss and support his / her views on the basic principles, and limitations thereof, of IT quality, risk and security management; The student can explain IT quality, risk and security management.",course,DE0742,1
+CLO_9cb4d5134cfe29,"Can support their view on necessity of implementation of the IT quality, risk, and security management process and the most effective way depending on organization goals and structure.",course,DE0742,2
+CLO_c8b6013cf58fe3,Can deploy appropriate tools to designing a quality and / or risk and / or security process in an enterprise (in a certain environment).,course,DE0742,3
+CLO_ac1234233d2dd5,Can perform a risk assessment and design improvements.,course,DE0742,4
+CLO_6399343fd5d8e4,"Knows research process, main activities, results.",course,DE0746,1
+CLO_d8afe675f6cd76,Knows research methods appropriate in Business Informatics research process.,course,DE0746,2
+CLO_488e9c47d723b3,Knows research paper development approaches and academic integrity principles.,course,DE0746,3
+CLO_d909c6abbdb645,"Is able to conduct research according to the generally accepted methods, standards and techniques.",course,DE0746,4
+CLO_a2bb129fdafb5f,Is able to evaluate the quality of a research paper.,course,DE0746,5
+CLO_3218662a0a0e82,Is able to explain storage networking aims and current restrictions.,course,DE0001,1
+CLO_0a01c3950e25a4,Is able to explain current and emerging SAN concepts and compare their implementations.,course,DE0001,2
+CLO_817843db092b1c,Is able to select the most proper technology solution for a specific business problem and discuss it with both business and IT professionals.,course,DE0001,3
+CLO_9882a4703f90bb,Is able to evaluate alternative data storage networking solutions and choose the optimal one.,course,DE0001,4
+CLO_9e2a7f15235b20,Is able to apply basic techniques for network monitoring and analysis and to evaluate which techniques can be used to solve given problems.,course,DE0748,1
+CLO_7efe99476ad20d,"Knows network-based threats and botnets, and tools for detecting and preventing such.",course,DE0748,2
+CLO_d0e327f8b2ff7e,Is able to analyse examples of network-based attacks.,course,DE0748,3
+CLO_0dcf3ddd06c468,Is able to evaluate which methods and tools for detecting and preventing network-based attacks should be used for a specific case/problem.,course,DE0748,4
+CLO_4bd80272507754,Knows selected methods and tools for penetration testing.,course,DE0748,5
+CLO_04739618077bbd,"Knows the types of intelligent agents, their characteristics, is capable to choose suitable agents and apply them to solve problems of various domains.",course,DE0743,1
+CLO_b6876a76e6b1b9,"Knows the classic artificial intelligence methods, is capable choose suitable methods and apply them to solve problems of various domains.",course,DE0743,2
+CLO_111a8ee82c97de,"Knows and is able to apply the machine learning methods, is capable to use them to address various business domain problems.",course,DE0743,3
+CLO_9b3b663253c7ec,"Is able, using appropriate technologies, to develop enterprise improvement strategies in the field of information security, to plan analysis and change management projects, and define requirements for new products and services.",course,DE0753,1
+CLO_04918e591f6d00,Is able to identify causes and consequences of (lack of) system and software security.,course,DE0753,2
+CLO_9cdc6abef61e01,Is able to use the most important techniques to prevent or reduce system and software security problems and to implement and discuss security requirements and security management.,course,DE0753,3
+CLO_66149fc0743908,"Is able to apply advanced modelling techniques (notations, tools, and processes) to build secure systems and software.",course,DE0753,4
+CLO_e568aa7c94f43f,Is able to interpret business concepts of information security in computer science and ICT terms and vice versa.,course,DE0753,5
+CLO_30301e73ad015e,Ability to select the most appropriate solution for business process automation,course,DE0738,1
+CLO_a9baa88c10a487,To understand implementation life-cycle of enterprise applications and main implementation activities,course,DE0738,2
+CLO_6094ac2d5ba83b,Ability to document implementation of enterprise applications,course,DE0738,3
+CLO_daa748c950a20e,"Ability to configure enterprise applications and to modify user interface, reports and elements of enterprise portal",course,DE0738,4
+CLO_4d2735c35df065,Ability to orchestrate executable business processes and knowledge of integration standards,course,DE0738,5
+CLO_65183f2034a771,Knows types of enterprise applications and transformation technologies.,course,DE0638,1
+CLO_3ec3f4e0e1ff63,Is able to identify transformation opportunities and evaluate potential benefits.,course,DE0638,2
+CLO_801d01d911bf62,"Is able to choose suitable architectural solutions for the implementation of enterprise business processes with respect to functionality, customization, scalability and other factors.",course,DE0638,3
+CLO_a52b3992c9c84e,"Is able to configure and modify components of enterprise applications including data model, reports and workflows.",course,DE0638,4
+CLO_f5f0ed2840fe76,"Is able to manage, document and communicate the implementation of enterprise applications.",course,DE0638,5
+CLO_358a57d6bce8dd,Characterize data pre-processing tasks and conduct data transformations,course,DE0750,1
+CLO_32c263a75fdf94,"Discriminate data mining approaches, select and apply appropriate methods for particular data",course,DE0750,2
+CLO_7c495422d391d7,Analyze business needs and link them to capabilities data analytics,course,DE0750,3
+CLO_e1f9dbc70d4167,Using data mining tools create solutions for discovering knowledge from data and representing it (DigComp Level 7),course,DE0750,4
+CLO_b4abe8eb6b03fc,Perform different tasks according the principles of academic integrity,course,DE0750,5
+CLO_a2cd75c786e1e2,"Knows characterize data preparation tasks and conduct data preliminary analysis, transformations, visualization.",course,DE0940,1
+CLO_be7c599128f3a6,"Is able to discriminate machine learning approaches, select and apply appropriate methods for particular data.",course,DE0940,2
+CLO_78f1f1c6b34628,Is able to interpret results of analysis and derive data-driven business decisions.,course,DE0940,3
+CLO_212533e4af2d49,"Using knowledge in data analysis and ability to apply appropriate tools, is able to create solutions for business necessities.",course,DE0940,4
+CLO_b3162934e7ae9e,Is able to perform different tasks according to the principles of professional and academic integrity.,course,DE0940,5
+CLO_efc3d3ab2994f1,Is able to differentiate between different areas of company law.,course,BS0055,1
+CLO_7a294f043b4fd4,Is able to make a prima facie assessment of each situation.,course,BS0055,2
+CLO_f0c2d8b57799fb,Is able to assess the main required direction of activity,course,BS0055,3
+CLO_f6870f4551ddb6,Understands the regulations for business expansion - mergers and acquisitions.,course,BS0055,4
+CLO_14956e9f1073dc,Can explain the principles of corporate social responsibility and ethics.,course,BS0054,1
+CLO_ee28ce657e36c1,Is able to apply the principles of corporate social responsibility and ethics in his/her work.,course,BS0054,2
+CLO_2a1cb410768fe0,Is able to analyse corporate social responsibility.,course,BS0054,3
+CLO_db1230fe079a99,Is able to analyse various codes of ethics of corporate governance.,course,BS0054,4
+CLO_1a28d99a817878,Is able to analyse employee conditions and business ethics.,course,BS0054,5
+CLO_c01f3d07f73f8c,Able to demonstrate knowledge of the elements required to identifying and generate business opportunities and to commercialise ideas.,course,BS0052,1
+CLO_1309fadabe8041,Able to describe the sources and the process involved in generating and validating ideas and what is needed to protect and exploit them successfully.,course,BS0052,2
+CLO_c9c2cc48e477d2,Able to identify and analyse the resources required for successful business development and determine how to obtain them.,course,BS0052,3
+CLO_b518fd07cbe729,Able to discuss the importance of business and financial planning and how to develop a business plan.,course,BS0052,4
+CLO_d713b3c18793fc,Able to interact effectively with others in a professional manner as well as negotiate and manage group work and decision-making.,course,BS0052,5
+CLO_4d93186a825823,Is able to explain and discuss theories and principles of business and management communication.,course,BS0053,1
+CLO_b94a1536ce8f52,"Is able to use tools that help to communicate in different scenarios, including one meeting, group meetings, presentations, conversations, etc.",course,BS0053,2
+CLO_132050e9996277,Is able to apply communication skills in various communication scenarios.,course,BS0053,3
+CLO_e0eb8095d62b6d,"Can write clear, concise documents.",course,BS0053,4
+CLO_00e0d39a2a55ba,Able to value an unquoted (privately-held) company,course,BS0050,1
+CLO_3ae25d8cd8e5d5,Able to know how financing transactions are structured,course,BS0050,2
+CLO_637ba06ae53314,Able to know how investors exit from unquoted investments,course,BS0050,3
+CLO_7422914e7088d6,Able to discuss leading change and organizational transformation.,course,BS0051,1
+CLO_4f584491457010,Able to analyze and practice the interpersonal and strategic skills leaders use to get people to individually and collectively accept direct responsibility for creating and improving their own circumstances.,course,BS0051,2
+CLO_65d7721a91227e,Understands the processes of change and is able to think critically.,course,BS0051,3
+CLO_1149b2496d1484,"Able to apply the principles of corporate governance, oversight and control.",course,BS0049,1
+CLO_5ee5571aef9e0e,"Able to identify the key differences between governance, management, internal control and stakeholder interests.",course,BS0049,2
+CLO_9f4100bbeec086,"Able to describe how to implement governance structures within public, private, nongovernmental and state-owned enterprises.",course,BS0049,3
+CLO_943ffd416d33a4,Able to assess the level of corporate governance within an organization.,course,BS0049,4
+CLO_7f8660d43d0ba5,"Able to explain the importance of key concepts for corporate governance, corporate social responsibility and ethics and their application in decision-making processes.",course,BS0049,5
+CLO_6dab0b33143564,"Is able to compare and assess different pedagogical systems, to characterize pedagogical values.",course,DE0741,1
+CLO_60fee9703d33c4,Understands the specific and principles of adult education.,course,DE0741,2
+CLO_928f1d7d72c43d,"Understands the structure of the pedagogical process, knows its components and interrelationships.",course,DE0741,3
+CLO_fa2f999b39c064,Is able to characterize strategies for adult education.,course,DE0741,4
+CLO_5e5a3aa4ef0eb4,"Is able to participate in argumentative discussion/debate on quality of knowledge, different conceptualization of competence.",course,DE0741,5
+CLO_cdecfc54aacc60,Is able to diagnose learning needs and create a professional development module. Is able to develop a personal learning plan.,course,DE0741,6
+CLO_8a78e384b91eba,"Is able to describe, analyse and evaluate humanistic theories in pedagogy.",course,DE0643,1
+CLO_437bcd224843c5,"Is able to compare different didactical approaches and describe the main ideas, evaluate the pedagogical principles and teachers` role.",course,DE0643,2
+CLO_4e1a7cf7dbcfcf,Is able to reflect on their own learning skills and strategies.,course,DE0643,3
+CLO_2a458a53faad91,Is able to illustrate and describe their didactical consideration based on a specific example.,course,DE0643,4
+CLO_dffff231a30255,Is able to work with a problem oriented focus.,course,DE0643,5
+CLO_f4f234bc86b672,Knows the basic principles of pedagogy.,course,DE0643,6
+CLO_7d99a76e2bdfb5,Knows the competency approach.,course,DE0643,7
+CLO_27955476131856,"Is able to use verbal and non-verbal communication skills, presenting reports and theses on professional issues in English.",course,DE0729,1
+CLO_a9942c3b3bc6a3,"Is able to differentiate and select relevant speech compilation techniques, develop the content of the speech and use definite presentation techniques, taking into consideration various psychological factors.",course,DE0729,2
+CLO_2aa537b0b8a813,Is able to use a variety of presentation formats selected to reach a particular purport of communication.,course,DE0729,3
+CLO_1a306d023f7432,"Is able to inform the audience persuasively and enthusiastically, maintaining rapport with the listeners.",course,DE0729,4
+CLO_e8e3fa527f2191,"Is able to understand, recognize and critically analyse widely used propaganda techniques, is able to counter them.",course,DE0729,5
+CLO_9f25c0fbf4d373,Is able to recognize a high level of value on etiquette and protocol during any type of business deals.,course,DE0729,6
+CLO_22c12b715ed6ee,Is able to manage time efficiently.,course,DE0729,7
+CLO_71c12827efe384,"Is able to work individually and as part of the team, is able to manage and motivate the team.",course,DE0729,8
+CLO_517d7cca69e45c,Is able to efficiently use stress and conflict management techniques.,course,DE0729,9
+CLO_9ca8d112d35ca3,"Is able to listen attentively, assess, appreciate, criticise presentations of other students.",course,DE0729,10
+CLO_2251a8e7f0945d,"Students are able to analyse, classify, and compare ideas expressed in scientific and professional sources pertaining to the tasks of their master thesis.",course,DE0744,1
+CLO_3b05646a3fcdc7,"Students will be able with scientific rigor to apply appropriate methods, models, tools, and technologies for solving the tasks of business informatics.",course,DE0744,2
+CLO_5d878e37b58436,Students will be able to identify and formulate research problems in the field of business informatics and make assumptions with respect to their causes.,course,DE0744,3
+CLO_6a159cbcd35eb0,Students will be able to integrate acquired knowledge and propose solutions for identified problems.,course,DE0744,4
+CLO_d7a187daa90796,Students will be able to interpret proposed solutions and develop analysis if necessary.,course,DE0744,5
+CLO_6fa61db0d21ee8,Students will be able to present and explain the results of their research and debate about them publically.,course,DE0744,6
+PLO_2dc105f93f3d44,is able to demonstrate advanced knowledge and understanding in the field of digital humanities,programme,HMD0,1
+PLO_593f3b53f9b615,"is able to recognize and compare different digital humanities theories, sociological macro and micro theories, and apply these theories in empirical data analysis",programme,HMD0,2
+PLO_c76c1eb4e1c290,"is able to use a range of knowledge management technologies: information transmission, storage and processing technologies, to identify and structure elements of e-content and knowledge management",programme,HMD0,3
+PLO_0703bc19a77768,"is able to work across various disciplines performing a range of multidisciplinary tasks (information mining, information architecture, content management, contextualization, web document creation, teleworking, business applications of social networks, terminotics, internet marketing, culture studies, etc.)",programme,HMD0,4
+PLO_4800e37c5f43dc,"is able to develop and improve different types of e-models for resolving context-based tasks, including e- commerce, e-project management, e-learning content; employ and manage technologies and applications, as well as evaluate e-model application possibilities and mechanisms for their quality assessment and improvement",programme,HMD0,5
+PLO_0872056d97c5c6,is able to use methods of natural language processing and heuristically informed search algorithms,programme,HMD0,6
+PLO_3cf72a283f725f,is able to develop and manage interdisciplinary projects according to the provided guidelines,programme,HMD0,7
+PLO_209097688db129,"is able to design, improve and assess multimedia models through interdisciplinary prism of humanities, engineering, social, cultural and natural science processes",programme,HMD0,8
+PLO_34610086874748,is able to digitalize different types of textual data,programme,HMD0,9
+PLO_a9f46575b27f1b,"is able to process audio and video data, conduct research considering data representation, visualization, archiving, and transfer operations",programme,HMD0,10
+PLO_e52fce94366180,is able to use the acquired technical skills in solving interlingual communication related problems in general and professional contexts,programme,HMD0,11
+PLO_d800804c32f581,is able to efficiently apply text formation theory skills and demonstrate basic skills of proofreading and copyediting,programme,HMD0,12
+PLO_7b5ee41ec1195e,"is able to independently use digital humanities theoretical concepts, methods and problem-solving skills to conduct research in the field of IT, e-learning content development, language technologies, gamification, edutainment, interdisciplinary andragogy, cognitive linguistics, etc",programme,HMD0,13
+PLO_ac327bfa2479cf,is able to conduct scientific research and compile research reports within the framework of the chosen module,programme,HMD0,14
+PLO_7906e4eb28a6db,is able to independently make decisions within own scope of responsibilities,programme,HMD0,15
+PLO_62a4dd737c5e7e,is able to evaluate the relevance of one’s own professional competences and skills to the occupational standard and the requirements of the international labour market,programme,HMD0,16
+PLO_fea91c93a9e280,is able to work according to the principles of professional ethics,programme,HMD0,17
+CLO_932feb13c1ff7f,"Is able to integrate digital research goals and methods to solve problems in the humanities. Is able to perform comparable cultural and social analysis, study the role of context, use archival materials, together with statistical analysis and visual representation of data.",course,DE0802,1
+CLO_6f9f36e2045242,"Is able to understand, analyse, and use data.",course,DE0802,2
+CLO_b7d5fc2a48c5cf,Is able to synthesize data from multiple sources and harness multi-modal and multimedia technologies to produce digital arguments.,course,DE0802,3
+CLO_08c4a2d6a64a10,Is able to develop critical savvy for assessing sources and data.,course,DE0802,4
+CLO_9b3f67690b2e19,Is able to use design critically.,course,DE0802,5
+CLO_a30c09a02e656e,Is able to critically evaluate information and information technologies.,course,DE0802,6
+CLO_c64e1ff505d370,Is able to work both individually in a group.,course,DE0802,7
+CLO_06441b6003392d,"Know the definition categories, roots, goals, approaches, tasks and methods of artificial intelligence.",course,DE0717,1
+CLO_6b29278e555f83,"Know the definition, structural elements and characteristics of a state space graph, basic principles of search, search directions, principles of implementation of uninformed search algorithms.",course,DE0717,2
+CLO_e8e55f80f52e6f,Able to implement uninformed search algorithms.,course,DE0717,3
+CLO_695c96f3778f67,"Know the definition and application context of heuristic knowledge, components of a heuristic evaluation function, and the principles of heuristic search algorithms.",course,DE0717,4
+CLO_23502a1bf48462,Able to implement heuristic search algorithms.,course,DE0717,5
+CLO_ba99dbca6a8e7a,"Know the definition and purpose of knowledge representation, knowledge base and inference engine, as well as the elements, representation rules, advantages and disadvantages of different knowledge representation schemes.",course,DE0717,6
+CLO_f9d637de5feb4c,Able to represent domain knowledge using semantic networks and frames.,course,DE0717,7
+CLO_2120cdb1d83bdf,"Know the definition, types, application situations and terminology of machine learning, as well as the essence of several machine learning algorithms.",course,DE0717,8
+CLO_d575c37674f988,Able to use several supervised and unsupervised machine learning algorithms.,course,DE0717,9
+CLO_55da101d4c596f,Know the basics of natural language processing and computer vision.,course,DE0717,10
+CLO_c8fe993fa18146,Understand the application of artificial intelligence methods in the humanities and social sciences.,course,DE0717,11
+CLO_caf20b34d1efa5,Is able to describe research methods in a selected scientific publication.,course,DE0815,1
+CLO_675f9debc0afcb,Is able to prepare a research plan for a scientific project on a selected topic.,course,DE0815,2
+CLO_89d8bbaf2841e8,Is able to analyse the results of a well-known development project and identify gaps / deficiencies in project research / development activities.,course,DE0815,3
+CLO_f10b24f6cb1af5,Is able to create a research project application.,course,DE0815,4
+CLO_f9cc9ebb0e5966,Is able to demonstrate a critical understanding of how languages interact in various communicative contexts.,course,DE0823,1
+CLO_4dcd52dcae17fe,"is able to demonstrate a deeper understanding of the field of discourse studies, and in particular of digital discourse studies.",course,DE0823,2
+CLO_c1281e8609fee4,"Is able to compare and evaluate different theoretical and analytic approaches to discourse, setting up an analytical model for a discourse- theoretical analysis and a discursive-material analysis.",course,DE0823,3
+CLO_6c1a0d35fb5cc2,"Is able to compose information in multiple modes with intended rhetorical effects (explaining how the effects have been achieved) and articulate for multiple audiences, meaning-making capabilities of textual, graphic, auditory, and video modes.",course,DE0823,4
+CLO_40c278c437c3da,"Is able to use digital text processing tools (Python, sentiment analysis software, etc.) in text analysis.",course,DE0823,5
+CLO_c15a03b0f9c992,"Is able to analyse a range of text types, using appropriate linguistic and sociolinguistic tools, applying digital technologies.",course,DE0823,6
+CLO_fdf368660b9885,"Able to demonstrate comprehensive knowledge of the basic concepts of rhetoric, rhetorical functions and techniques.",course,DE0811,1
+CLO_6b511bf49d1f46,"Able to use language argumentatively and persuasively, employ rhetoric resources of the language to reach a definite communicative purpose.",course,DE0811,2
+CLO_47fdf654908522,"Able to structure the text of presentation, selecting relevant facts and arguments to persuade the audience.",course,DE0811,3
+CLO_342b9f814dd74d,"Able to organize written discourse according to the genre and style conventions, to state and prove the hypothesis and organize knowledge in accordance with the needs of the expected readership.",course,DE0811,4
+CLO_2ff4adfe16c606,"Able to participate in discussions and debates, to be confident, persuasive and capable of establishing rapport with the audience.",course,DE0811,5
+CLO_2ce64dcbbda866,Is able to apply basic notions of semiotics in the analysis of communicative aspects of the language.,course,DE0714,1
+CLO_5b53ece3cf6af8,Understands the relationships between various semiotic systems and are able to identify the function of particular signs within these systems.,course,DE0714,2
+CLO_a78be29211b9d5,Is able to model and analyse language processes in the digital environment and provide insight into the human cognition process.,course,DE0714,3
+CLO_e5155cd7bf2ffd,Is able to integrate the acquired knowledge in semiotics in their cross- disciplinary research in various fields of engineering and/or humanities.,course,DE0714,4
+CLO_c281dcfa9eb24f,Is able to recognize problems related to Big Data within a given problem domain.,course,DE0806,1
+CLO_9c8e65b65f6c20,is able to identify and select a set of methods possibly applicable for a given problem and data.,course,DE0806,2
+CLO_39b67dc22843cd,Is able to identify and select needed software tools and hardware in terms of Big Data processing platforms.,course,DE0806,3
+CLO_8ff8e7a797f1aa,Is able to apply the selected method and present the results.,course,DE0806,4
+CLO_26d1bf2e907277,"Is able to use relevant terminology discussing the issues in humanities and social sciences, contrasting humanitarian and social theories, philosophies and value systems. Students should prepare for and participate in at least two seminars and exam.",course,DE0820,1
+CLO_7d100d59a3e917,"Is able to briefly characterize a field of research in humanities or social sciences, highlighting the core and auxiliary lines of reasoning.",course,DE0820,2
+CLO_268c7ae2ccab40,"Is able to formulate, discuss and substantiate with relevant arguments their own humanistic values, philosophy and aesthetic views presented in a course project.",course,DE0820,3
+CLO_216134b1ce2a43,Knows the main strands of research in humanities and social sciences obtained by reading relevant literature.,course,DE0820,4
+CLO_a4e0b6ffefaa89,"Able to integrate the methods of cognitive analysis in the research on a variety of themes in engineering, computing and humanities.",course,DE0709,1
+CLO_e20ad5482605dc,Able to use respective software to build semantic webs to conceptualize and categorize knowledge.,course,DE0709,2
+CLO_4a28d43d18b724,Able to use the acquired knowledge in cognitive process modelling and simulation in digital environment.,course,DE0709,3
+CLO_c144d040484921,Able to characterize semantic relationships between concepts.,course,DE0709,4
+CLO_4076cb8a7e61f9,"Is able to appreciate semantic, pragmatic, cultural and extra-linguistic aspects of ITT",course,DE0805,1
+CLO_b311c6575e3ec7,Is able to critically evaluate different forms of information transfer and select the form relevant in a definite communicative setting. -,course,DE0805,2
+CLO_21583615720121,Is able to assess the quality of localization services and get involved in localizing projects,course,DE0805,3
+CLO_0e08dafbe4f283,"Is able to discuss professional practical issues, recognize various translation problems and develop a strategy for their solution in written and oral translation",course,DE0805,4
+CLO_d005a1d5d3bb09,"Is able to grasp linguistic and extra linguistic relationships in language use in connection with translation studies, research methods, principles and approaches",course,DE0805,5
+CLO_62cd3a1de97222,"Is able to recognize and observe regularities, patterns, and norms of contemporary digital textuality.",course,DE0809,1
+CLO_fbdef5edc5c1db,Is able to differentiate among genres and demonstrate register awareness for efficient communication. Is able to purposefully and masterfully apply a wide range of linguistic resources in the digital setting.,course,DE0809,2
+CLO_b5e4bc0984cc00,"Is able to discuss theoretically the knowledge acquired during the course on the principles, methods, and techniques of creative content production, and apply it practically.",course,DE0809,3
+CLO_50c846573a6a3d,"Is able to analyse scientific, technical, and reference literature, periodicals, internet catalogues, etc., and practically apply the skills acquired.",course,DE0809,4
+CLO_89f2a919463e2f,"Is able to demonstrate stylistic variability of expression (characters, descriptive setting, plot development).",course,DE0809,5
+CLO_4ef0df4f16c333,Is able to masterfully employ manipulative techniques in persuasive content production.,course,DE0809,6
+CLO_6bbe68d88ad902,"Is able to develop, design, and present a personal blog/website/UI with high-quality, structured content.",course,DE0809,7
+CLO_5ce5fdec86abb4,Is able to identify the style/register/genre of the text and choose relevant methods and tools of analysis.,course,DE0804,1
+CLO_57b26e1d4453fc,Is able to recognize the principles of text organization (from the macro-to the micro-level) and textual functions associated with clause- and sentence.,course,DE0804,2
+CLO_e3d8547fdcba86,"Is able to compare and contrast the functionality of various digital text analysis tools and software to be able to select the most relevant solution for the purpose (e.g., Google Cloud Natural Language API, IBM Watson Studio).",course,DE0804,3
+CLO_0994f95206ef1d,Is able to master the range of strategies for reception and production of high-quality digital content.,course,DE0804,4
+CLO_3be26e77fd7c98,"Is able to efficiently use educational language technologies for language learning, language use, and communicative resource planning.",course,DE0819,1
+CLO_917dac2677078e,Is able to process and comprehend complex information in LSP using available text processing tools; provide an informed opinion on a professional issue by processing the information extracted from professional texts.,course,DE0819,2
+CLO_149ff87cd05d39,"Is able to structure information using a variety of digital tools: building a logical scheme of the text, compiling denotative graphs, and information mapping.",course,DE0819,3
+CLO_1e217f10ed818f,"Is able to produce high-quality content in LSP adjusted for the needs of the intended target audience, to plan and use adequate linguistic resources persuasively and efficiently.",course,DE0819,4
+CLO_b183fc3c90f579,"Is able to masterfully use negotiation, argumentation, and persuasion strategies in LSP to successfully pursue academic, research, and professional goals.",course,DE0819,5
+CLO_8f2a5188a484aa,"Is able to demonstrate advanced linguistic, communicative, and interpersonal competencies in various LSP contexts.",course,DE0819,6
+CLO_98dcdbd83eead0,"Knows software development models and methods of their management, models of human work organization, quality management models, testing planning and risk management methods.",course,DE0817,1
+CLO_075ccc2879c04d,"Is able to plan a software project, that is to appoint tasks for project development, to assign these tasks to developers, to create calendar using CASE-tools.",course,DE0817,2
+CLO_62e7654eba1234,Knows different cost estimation models and is able to estimate cost of a project and its every stage using different models and tools.,course,DE0817,3
+CLO_cbb7eb20356d79,"Is able to work in software developing team, perform functions of the manager and developer.",course,DE0817,4
+CLO_a2aeff55e90754,"Knows software measurement principles and metrics, as well as is able to calculate metrics of specification, design and program code.",course,DE0817,5
+CLO_e0b38d6473422b,"Able to design, execute and debug a branching algorithm for solving various tasks.",course,DE0807,1
+CLO_0f9463373d94f8,Able to identify the suitability of a development tool for a given task.,course,DE0807,2
+CLO_f8b984f1471b8b,Able to analyse and create solutions to tasks in C language using program sample codes.,course,DE0807,3
+CLO_ff2ad3c99d01be,Able to analyse and create solutions to tasks in Python using program sample codes.,course,DE0807,4
+CLO_f0028007a069f7,Able to analyse and create solutions to tasks in HTML and CSS using program sample codes.,course,DE0807,5
+CLO_bf056c138f6904,Able to analyse and create solutions to tasks in Javascript using program sample codes.,course,DE0807,6
+CLO_5565a7dd4e39ba,Able to analyse and create data selection queries in SQL using pre-made examples and templates.,course,DE0807,7
+CLO_f1c7336ce1a296,Is able to quickly and securely make changes to a large hierarchical MS Word document that contains a lot of intra-and inter-related objects.,course,DE0813,1
+CLO_b0cc3312c5e6cb,Is able to use MS Excel spreadsheet as a programming tool.,course,DE0813,2
+CLO_fd84a42eecbda2,Is able to create editable graphical objects and add them to other documents.,course,DE0813,3
+CLO_56dfc8b4a5661f,Is able to create documents with mutually binding sites.,course,DE0813,4
+CLO_af7d46036b7c4e,Able to create a Web page with several HTML and CSS elements.,course,DE0824,1
+CLO_e663325e9943a4,"Able to create Web applications using HTML, CSS and JavaScript.",course,DE0824,2
+CLO_a5573b34c3d092,"Knows the possibilities of HTML, CSS and JavaScript for creating Web applications.",course,DE0824,3
+CLO_c809f126f297b4,Ability to perform and defend laboratory works about essential topics in the ICT field. The student can evaluate the scientific and technical background required for experimental work and plan it.,course,DE0825,1
+CLO_72be77d2b5101f,"Is able to demonstrate basic skills of proofreading and copyediting. Is able to recognize and identify common grammatical, stylistic, punctuation, and capitalization mistakes presenting their knowledge in individual editing assignments.",course,DE0826,1
+CLO_b0d82f276702dc,"Is able to demonstrate advanced information mining skills, analysing and annotating relevant literature, including scientific literature, periodicals, databases, etc.",course,DE0826,2
+CLO_5070480f400b1a,"Is able to apply basic principles of content organization. Is able to analyse the structure of different types of texts, the purpose of each part of text, evaluate the sentence/paragraph cohesion.",course,DE0826,3
+CLO_563005232d3606,"Is able to consider and provide expert opinion on the quality and potential impact of visual aids. Is able to determine the purpose of a particular graphic element in the given text, evaluate its compliance with the requirements.",course,DE0826,4
+CLO_0cf8fd93c5001f,Is able to demonstrate a detailed understanding of the stages of the publishing process. Is able to perform the duties of a project manager at all stages of the publication process.,course,DE0826,5
+CLO_30bdac237887a9,Knows how to write summary.,course,DE0827,1
+CLO_992df78c5b2b8e,Able to develop and present a PowerPoint presentation.,course,DE0827,2
+CLO_499d49b0648d82,Understands the principles of graphic design and its main processes.,course,DE0816,1
+CLO_f192ed41d154a6,Able to generate an idea and plan the project (Body of Work).,course,DE0816,2
+CLO_57b49e71d8e620,"Able to plan and create a coherent, stylistically united Body of Work with several different objects and images.",course,DE0816,3
+CLO_9242048a5f077a,"Able to create Bitmap and vector files, draw simple geometric shapes in Adobe Illustrator. Understands usage of RGB and CMYK files (Illustrator, InDesign, Photoshop). Understands file export for prepress and online, main image manipulation in Photoshop, single page layout in Adobe InDesign",course,DE0816,4
+CLO_12280f02cfee6a,Understands video production process and its main stages.,course,DE0814,1
+CLO_d6199d932c821d,Is able to plan video creation process.,course,DE0814,2
+CLO_66d1c89f99a877,Is able to plan and organize a live video event.,course,DE0814,3
+CLO_3e1797a7837470,Is able to carry out production and post-production stages and create a quality video.,course,DE0814,4
+CLO_b6ac0e3ee12815,Able to evaluate the impact of digital transformation on business models.,course,IV0623,1
+CLO_f30c0a1732b4d0,Able to identify and analyze different digital marketing approaches and plan digital media for specific business types and models.,course,IV0623,2
+CLO_fc69b0c3435bf8,Understand and know how to use digital business intelligence and big data analysis techniques.,course,IV0623,3
+CLO_f041c2ba6fd6f9,"Able to identify and interpret indicators to measure digital marketing efficiency. Able to identify applicable tools for identifying and analyzing target markets, practical and applicable knowledge of different communication tools for building relationships with them.",course,IV0623,4
+CLO_d82a44e03a9760,"Understands strategic marketing, integrated marketing and communication processes and is able to put them into practice.",course,IV0623,5
+CLO_50bf599cf0e2f6,Students will be able to develop new products combiing both the theoretical and practical knowledge.,course,IV0652,1
+CLO_53cda0b3070295,"Students will be able to integrate, combine and link together different tools and solutions in new product development. Students will be able to synthesize new ideas basing on group discussion. Students will know basic principles of creativity and its role in new product development.",course,IV0652,2
+CLO_232a049415554a,Students will understand the concept of customer needs; will be able to listen to the voice of the customer as well as to develop new products based on the customer needs. Students will be able to describe problem situations and find the best possible solution for practical application.,course,IV0652,3
+CLO_c15f225c8aa2dd,"Students will be able to analyze production process of a company, to integrate and optimize them.",course,IV0652,4
+CLO_ed30046d9859b2,"Students will be able to find, analyze, compare and use practically different technical parameters and indicators, as well as choose the most appropriate one for solving situational problem.",course,IV0652,5
+CLO_bcac88bb7d7a63,Students are able to present and explain results of their work.,course,IV0652,6
+CLO_a2710d71166ffd,Is able to navigate 3D graphics package user interfaces and is familiar with various modeling and animation techniques.,course,DE0322,1
+CLO_fcb072aa3daad3,Is able to apply theoretical knowledge to modeling and animation of 3D objects.,course,DE0322,2
+CLO_da1ebd1e41676a,Is able to apply theoretical knowledge to the modelling and animation of 3D characters.,course,DE0322,3
+CLO_3b199d68cc47f4,Is able to apply theoretical knowledge to 3D scene modelling and animation.,course,DE0322,4
+CLO_c40d71f431c007,Orients in the diversity of influences and manifestations of the art of creating an environment in a cultural environment.,course,AD0188,1
+CLO_cfaa0225335332,Is able to explain the causes of current issues in the formation of the spatial environment in society and predict the course of process development.,course,AD0188,2
+CLO_cfe87fc736abcb,"Is able to perceive and critically process information, evaluate the reliability of its sources and the degree of compliance with the set goal (for the task).",course,AD0188,3
+CLO_74cc9b3a42eaae,"Is able to logically structure an idea, choose adequate argumentation, engage in discussion, oppose.",course,AD0188,4
+CLO_37180421d680ab,Is able to argue the purposefulness of the resources and methods used in the specific environmental development plan or scientific research and their compliance with the set goal (task).,course,AD0188,5
+CLO_91840665057419,"Is able to present the results of the work, choosing the most purposeful means of verbal and visual expression.",course,AD0188,6
+CLO_74c0d14387f544,Is able to present the results of the work and defend them in an academic discussion.,course,AD0188,7
+CLO_a8dc1f169d001a,Is able to develop an interactive multimedia e-learning objects.,course,DE0822,1
+CLO_83950984a735e1,Knows basics of Python programming language. Is able to develop a game.,course,DE0822,2
+CLO_9c9f832a39d357,Knows how to create an e-learning module. Can produce an integrated e- learning module for a selected topic.,course,DE0822,3
+CLO_9adde6649ad0c0,"Knows and is able to conduct an evaluation and usability testing, as well as implement improvements in accordance with the evaluation and testing results.",course,DE0822,4
+CLO_51e7769d74e6a2,"Is able to plan, structure and develop high-quality interactive multimedia learning materials.",course,DE0822,5
+CLO_d8395264b20a6a,Understands different types of multimedia models that help to understand the processes and relationships of science.,course,DE0801,1
+CLO_7a40663500d6cf,Knows efficiency factors of educational graphical and multimedia models.,course,DE0801,2
+CLO_3c420c0731dc10,Is able to use online science models and create multimedia models to improve the understanding of the relationships and processes in science and evaluate their effectiveness.,course,DE0801,3
+CLO_3fccbc4ea357a5,Is able to use the prepared multimedia models to integrate into the educational process according to the chosen pedagogical approach.,course,DE0801,4
+CLO_50c8963603e34e,Understands and knows the syntax of the programming language and the principles of programme structure.,course,DE0800,1
+CLO_3d07ad9cdf9a34,Able to create linear and cyclic programs using software development environments.,course,DE0800,2
+CLO_d62a756db87305,"Understands the possibilities and peculiarities of using the programming language Python for solving various tasks related to the field of study, able to choose the necessary libraries to perform the specified tasks.",course,DE0800,3
+CLO_56bd527378771e,"Able to demonstrate theoretical and practical knowledge of the possibility of using the programming language Python, able to develop a program for solving certain tasks, is able to process external data.",course,DE0800,4
+CLO_2ed46c0bb2ae91,Able to demonstrate knowledge in the fundamentals of natural language processing,course,DE1002,1
+CLO_cb2ede15db7bf0,Able to identify and choose appropriate methods for solving specific natural language processing problems.,course,DE1002,2
+CLO_14ec02b9f9101d,Able to apply specific natural language processing methods as well as evaluate and interpret obtained results.,course,DE1002,3
+CLO_1fda9d28deadf6,Able to implement and apply software tools for solving natural language processing problems.,course,DE1002,4
+CLO_df325fbcd7de43,Is able to recognize traditional terminology theories and new trends in the development of terminology science.,course,DE0803,1
+CLO_4acfd73d9c631d,Is able to illustrate application options of principles and methods of contemporary terminology theory.,course,DE0803,2
+CLO_ced782222e7cf2,Is able to study the theoretical and practical premises of terminography.,course,DE0803,3
+CLO_a94bdb0bf170fa,Is able e to use terminology databases and recognize principles and methods of their compilation.,course,DE0803,4
+CLO_b74dc878e420c4,Able to understand geometric documentation of objects using various data acquisition technologies.,course,BM0758,1
+CLO_d950e561137c0b,Able to create a 3D model and prepare it for public presentation.,course,BM0758,2
+CLO_c43a4abeba9537,Able to understand the basic principles of data publishing in virtual and augmented reality technologies.,course,BM0758,3
+CLO_16cb4a2706d78e,Able to analyse information about a cultural and historical object with IT tools.,course,BM0758,4
+CLO_dcc95e1165a44b,Able to recognize the theoretical premises of current approaches to visual culture research.,course,DE0812,1
+CLO_02f377c692789e,"Able to express their well-substantiated opinion on the set of established practices, computer-aided visual culture linguistic analysis, visual culture manifestations, and their individual organisational paradigms, the historical development of the subject field.",course,DE0812,2
+CLO_25d9df4a2731bd,Able to practically apply current linguistic methods and develop visualization strategies and activities.,course,DE0812,3
+CLO_8d18cbac72f791,Able to critically assess visual culture linguistic analysis related challenges.,course,DE0812,4
+CLO_bcfb70ea6fcc23,"Is able to differentiate between digital and classical rhetoric, to understand the difference between the methods of investigation of digital and classical rhetoric patterns, as well as digital writing research.",course,DE0704,1
+CLO_6c0c28cde8081a,Is able to discuss the most frequently used digital rhetoric types of text analyses.,course,DE0704,2
+CLO_a811876d219fb5,Is able to build semantic webs to conceptualize and categorize knowledge.,course,DE0704,3
+CLO_68a7710377dee2,"Is able to organize written discourse according to the digital rhetoric conventions, to state and prove the hypothesis and organize knowledge in accordance with the needs of the expected readership.",course,DE0704,4
+CLO_53ef8c7893f748,Is able to demonstrate a deep critical understanding of academic texts that use corpus-assisted analysis in humanities.,course,DE0724,1
+CLO_b4b811444a88fe,Is able to evaluate the consistency of theoretical and technical parts. Understands the field's problems and potentials.,course,DE0724,2
+CLO_7f14c5cb385a48,Is able to pose research questions and propose possible technical solutions for research problems working with the corpus. Can demonstrate the ability to contextualize and interpret the data.,course,DE0724,3
+CLO_53434d82c8feb6,"Is able to develop personal research projects for corpus-assisted analysis of texts as social and cultural data, is able to justify the chosen theoretical framework and propose quantitative methods.",course,DE0724,4
+CLO_0281e0b786b884,Understands the historical development of literature in Latvia and its significance in the world context.,course,DE0818,1
+CLO_dc5e97f3527165,Understands the historical development of sculpture in Latvia and its significance in the world context.,course,DE0818,2
+CLO_efa752d1f483ef,Understands the historical development of painting in Latvia and its significance in the world context.,course,DE0818,3
+CLO_72fc18b2b61249,Understands the historical development of RP / RPI / RTU in Latvia and its significance in the global context in engineering sciences and technologies. Digitization of RTU History Museum materials.,course,DE0818,4
+CLO_6436acf32381a3,"Is able to analyse existing events, exhibitions, events in the territory of Latvia today.",course,DE0818,5
+CLO_fb261aa963499b,"Is able to independently create a digital story about one of the tasks issued in the study course (in the context of literature, painting, sculpture, RP / RPI / RTU history).",course,DE0818,6
+CLO_e85d8004bac8eb,"Students are able to compile, maintain, and apply digital lexicographic and text-processing resources.",course,DE1066,1
+CLO_a3e27aeba23611,"Students are able to select, use, and customize relevant NLP technologies to be used in various text mining, information retrieval, and knowledge management applications.",course,DE1066,2
+CLO_f10550950ffb50,"Students are able to process, organize, and represent unstructured and semi-structured semantic data in the development of functional semantic and pragmatic models.",course,DE1066,3
+CLO_09d7d500cbe349,"Students are able to use, customize, co-construct, and co-create semantic and pragmatic data, resources, and knowledge for specific contexts.",course,DE1066,4
+CLO_62fcb2aedbd3a0,"Students are able to cooperate within interdisciplinary projects dedicated to the creation, customization, and application of NLP and NLG technologies.",course,DE1066,5
+CLO_cfc88dca38b4c0,"Students are able to demonstrate comprehensive knowledge of linguistic and non-linguistic semiotic systems, and various aspects of efficient coding, representation, and communication of meaning in the multimodal digital environment.",course,DE1067,1
+CLO_55d406f77ccf63,"Students are able to select, use, develop, customize, and maintain multimodal digital semiotic resources to solve practical industry-related tasks.",course,DE1067,2
+CLO_e5497235884781,"Students are able and willing to cooperate in proposing and creating solutions to interdisciplinary semiotic language technology-related challenges of various complexity level with limited definition associated with the creation, edition and dissemination of digital content in different formats, and self-expression through digital means.",course,DE1067,3
+CLO_8caf61fca0fb7c,Students are able to create and disseminate high-quality multimodal content via digital media.,course,DE1067,4
+CLO_adff95ca9d893a,"Students are able to develop, co-create, customize, and test training models for sentiment analysis using relevant software.",course,DE1068,1
+CLO_bf8864f942678d,"Students possess knowledge of the key concepts of sentiment analysis, e.g., polarity, intentions and subjectivity, bi-grams, tri-grams, and n- grams.",course,DE1068,2
+CLO_a27b1e163f245d,"Students are able to normalize and represent the text using various methods (e.g., Bag-of-Words, TF-IDF, etc.).",course,DE1068,3
+CLO_159241a0b51cd5,"Students are able to preprocess text for sentiment analysis, extract n- grams, and relate retrieved word vectors to the sentiment classification.",course,DE1068,4
+CLO_59c7dfd067de30,"Students are able to cooperate in proposing and creating solutions to interdisciplinary language technology sentiment analysis-related challenges of various complexity levels with limited definition which are related to wise, risks minimizing the usage of digital technologies on people and environment, including their use for social well-being.",course,DE1068,5
+CLO_375c82e1c5bbc5,"Able to explain digital ethics theories and principles, linking them to technological developments.",course,DE1095,1
+CLO_c1ef8587636e24,Able to describe the architecture and basic mechanisms of operation of LLM.,course,DE1095,2
+CLO_27f831fe0eefaf,Able to integrate digital ethics principles into LLM applications and scenarios.,course,DE1095,3
+CLO_f0af635cb89bf7,"Ability to develop and present an ethically sound LLM usage scenario, integrating technical and ethical knowledge.",course,DE1095,4
+CLO_e441889c084bbd,"Able to synthesise theoretical and practical knowledge, defending their view on the interaction between digital ethics and LLM.",course,DE1095,5
+CLO_7ed8b9690b46b8,Understands the computer systems and data networks architecture and operation principles.,course,DE0810,1
+CLO_69037f74da6128,Understands the role of software for the operation of computer systems.,course,DE0810,2
+CLO_71297ab7807e71,"Knows the data retrieval, processing, presentation, transmission and storage principles.",course,DE0810,3
+CLO_857a70f3f01418,"Is able to organize and implement ""client-server"" type data communication with the help of a standard browser and text editor utility (VSC).",course,DE0810,4
+CLO_2d807d08ab5761,Understands the physical principles of IT and communication technology operation.,course,DE0810,5
+CLO_be8060363825af,Can explain the physical principle of IT and communication technology operation.,course,DE0810,6
+CLO_039f131a21d96b,"Is able to solve problems involving binary numbers, their arithmetic, logic and bit operations.",course,DE0810,7
+CLO_83a8f12db5bf35,"Is able to apply methods, forms and tools of e-didactics for acquisition of knowledge and skills in digital humanities.",course,DE0703,1
+CLO_69612dffca46af,Is able to integrate concepts of teaching theories into e-learning process and use of digital media in education.,course,DE0703,2
+CLO_c2f826645e20e4,Is able to apply pedagogical skills in creation of digital identity of pupils and students.,course,DE0703,3
+CLO_67770cff99d744,Is able to apply appropriate communication skills in the use of particular digital media for studies.,course,DE0703,4
+CLO_c2ba4f1f569dc4,Able to carry out critical discourse analysis of media content.,course,DE0706,1
+CLO_0ab3d4ce2db7ee,Able to recognize manipulative methods in media products.,course,DE0706,2
+CLO_0966a38777df34,Able to evaluate credibility of media information.,course,DE0706,3
+CLO_c3e177b203252f,Knows ethical paradigms of media and safety principles of internet usage.,course,DE0706,4
+CLO_c9dd36c01b5a82,"Knows the concepts of social and cognitive psychology, explains their essence.",course,DE0710,1
+CLO_5ad55fa7817ab0,Understands the interaction of social and cognitive psychology and the role of social cognition in the current processes in society.,course,DE0710,2
+CLO_d2a5cc1f892ef2,Uses the terminology of social and cognitive psychology in speech.,course,DE0710,3
+CLO_d9acee43cc67be,Describes cognitive processes and integrates them into the analysis of social processes.,course,DE0710,4
+CLO_18a17ddef69443,Makes decisions using social insights for a more ethical and socially responsible society.,course,DE0710,5
+CLO_6b6820958d150c,"Takes responsibility for participation in diverse social phenomena, perceiving oneself as part of a socially responsible society.",course,DE0710,6
+CLO_e0283eee236589,Plans own personal growth and development in a social and cognitive context.,course,DE0710,7
+CLO_8106b48431e481,Is able to employ theoretical knowledge and skills of the interdisciplinary field.,course,DE0808,1
+CLO_6f2953104193c2,"Is able to get successfully integrated into an establishment and/or company, both performing individual tasks and working in a team.",course,DE0808,2
+CLO_5059382519ca25,"Is able to apply the acquired knowledge and skills, as well as know, how to employ new technologies",course,DE0808,3
+CLO_a67799ab669d74,Is able to critically assess the acquired knowledge and skills and publicly defend (the viva) the results of their work.,course,DE0808,4
+CLO_d2c7227b0a6409,Is able to justify the topicality of their theoretical research in the field of Digital Humanities. Is able to substantiate the topicality of theoretical research in the field of digital humanities.,course,DE0821,1
+CLO_534cbbcc24f07c,"Is able to clearly formulate a hypothesis and the aims of the interdisciplinary work, to make efficient use of the investigated methods, applied technologies for interdisciplinary task solving.",course,DE0821,2
+CLO_a9223438a70096,"Is able to set the tasks necessary to reach the aims of the work. Is able to substantiate their decisions about the solutions of the proposed tasks and to make additional analysis, if required.",course,DE0821,3
+CLO_d28b4b6d908e32,"Is able to perform scientific-research work and design reports of scientific research, summarize, evaluate and design research results in accordance with the requirements.",course,DE0821,4
+CLO_758d5649f24c57,Is able to validate publicly the results of their work in the foreign language.,course,DE0821,5
